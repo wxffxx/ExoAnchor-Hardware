@@ -1,0 +1,1330 @@
+PROTEL NETLIST 2.0
+[
+DESIGNATOR
+U1
+FOOTPRINT
+SO-16_L10.3-W4.4-P1.27-LS7.0-BL
+PARTTYPE
+AQS221R2S
+DESCRIPTION
+
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+AQS221R2S
+Designator
+U1
+Device
+AQS221R2S
+Name
+AQS221R2S
+Unique ID
+gge310_0
+Reuse Block
+
+Group ID
+
+Channel ID
+
+LCSC Part Name
+AQS221R2S
+Supplier Part
+C719729
+Manufacturer
+PANASONIC(松下)
+Manufacturer Part
+AQS221R2S
+Supplier Footprint
+SOIC-16-175mil
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+SO-16_L10.3-W4.4-H2.1-P1.27
+Description
+
+
+*
+]
+[
+DESIGNATOR
+R2
+FOOTPRINT
+R0603
+PARTTYPE
+FRC0603J471 TS
+DESCRIPTION
+电阻类型:厚膜电阻;阻值:470Ω;精度:±5%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+FRC0603J471 TS
+Designator
+R2
+Device
+FRC0603J471 TS
+Name
+470Ω
+Unique ID
+gge7_5
+LCSC Part Name
+470Ω ±5% 100mW 厚膜电阻
+Supplier Part
+C2907172
+Manufacturer
+FOJAN(富捷)
+Manufacturer Part
+FRC0603J471 TS
+Supplier Footprint
+0603
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0603
+Type
+厚膜电阻
+Value
+470Ω
+Tolerance
+±5%
+Power(Watts)
+100mW
+Temperature Coefficient
+±100ppm/℃
+Description
+电阻类型:厚膜电阻;阻值:470Ω;精度:±5%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;
+Voltage-Supply(Max)
+75V
+Operating Temperature
+-55℃~+155℃
+
+*
+]
+[
+DESIGNATOR
+R1
+FOOTPRINT
+R0603
+PARTTYPE
+FRC0603J471 TS
+DESCRIPTION
+电阻类型:厚膜电阻;阻值:470Ω;精度:±5%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+FRC0603J471 TS
+Designator
+R1
+Device
+FRC0603J471 TS
+Name
+470Ω
+Unique ID
+gge8_2
+LCSC Part Name
+470Ω ±5% 100mW 厚膜电阻
+Supplier Part
+C2907172
+Manufacturer
+FOJAN(富捷)
+Manufacturer Part
+FRC0603J471 TS
+Supplier Footprint
+0603
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0603
+Type
+厚膜电阻
+Value
+470Ω
+Tolerance
+±5%
+Power(Watts)
+100mW
+Temperature Coefficient
+±100ppm/℃
+Description
+电阻类型:厚膜电阻;阻值:470Ω;精度:±5%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;
+Voltage-Supply(Max)
+75V
+Operating Temperature
+-55℃~+155℃
+
+*
+]
+[
+DESIGNATOR
+R3
+FOOTPRINT
+R0603
+PARTTYPE
+FRC0603F2201TS
+DESCRIPTION
+电阻类型:厚膜电阻;阻值:2.2kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+FRC0603F2201TS
+Designator
+R3
+Device
+FRC0603F2201TS
+Name
+2.2kΩ
+Unique ID
+gge10_3
+LCSC Part Name
+2.2kΩ ±1% 100mW 厚膜电阻
+Supplier Part
+C2907005
+Manufacturer
+FOJAN(富捷)
+Manufacturer Part
+FRC0603F2201TS
+Supplier Footprint
+0603
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0603
+Type
+厚膜电阻
+Value
+2.2kΩ
+Tolerance
+±1%
+Power(Watts)
+100mW
+Temperature Coefficient
+±100ppm/℃
+Description
+电阻类型:厚膜电阻;阻值:2.2kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;
+Voltage-Supply(Max)
+75V
+Operating Temperature
+-55℃~+155℃
+
+*
+]
+[
+DESIGNATOR
+R4
+FOOTPRINT
+R0603
+PARTTYPE
+0603WAF1002T5E
+DESCRIPTION
+电阻类型:厚膜电阻;阻值:10kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R4
+Symbol
+电阻
+Device
+0603WAF1002T5E
+Name
+10kΩ
+Unique ID
+gge5_6
+Reuse Block
+
+Group ID
+
+Channel ID
+
+LCSC Part Name
+厚膜电阻 10kΩ ±1% 100mW
+Supplier Part
+C25804
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0603WAF1002T5E
+Supplier Footprint
+0603
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf
+Supplier
+LCSC
+3D Model Title
+R0603
+Type
+厚膜电阻
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+100mW
+Voltage-Supply(Max)
+75V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Description
+电阻类型:厚膜电阻;阻值:10kΩ;精度:±1%;功率:100mW;工作电压:75V;温度系数:±100ppm/℃;
+
+*
+]
+[
+DESIGNATOR
+H1
+FOOTPRINT
+HDR-TH_8P-P2.54-V-M-R2-C4-S2.54
+PARTTYPE
+PZ2.54-2*4
+DESCRIPTION
+插针结构:2x4P;间距:2.54mm;行距:2.54mm;圆针/方针:方针;安装方式:直插;排数:双排;总PIN位数:8P;额定电流:2.5A;配合针长度:6mm;塑高:2.54mm;端接针长度:3mm;触头材质:黄铜;触头镀层:金;工作温度:-40℃~+105℃;
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+PZ2.54-2*4
+Designator
+H1
+Device
+PZ2.54-2*4
+Unique ID
+gge364
+Name
+PZ2.54-2*4
+Reuse Block
+
+Group ID
+
+Channel ID
+
+LCSC Part Name
+2x4P 间距:2.54mm 方针 直插
+Supplier Part
+C5156676
+Manufacturer
+ZHOURI(洲日)
+Manufacturer Part
+PZ2.54-2*4
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/PZ2.54-2*4/5790845.html
+Supplier
+LCSC
+3D Model Title
+HDR-TH_8P-P2.54-M-LI-2X4P
+Pin Structure
+2x4P
+Pitch
+2.54mm
+Row Spacing
+2.54mm
+Circluar Pins/Square Pins
+方针
+Mounting Type
+直插
+Number of Rows
+双排
+Number of Pins
+8P
+Current Rating
+2.5A
+Length of Mating Pin
+6mm
+Insulation Height
+2.54mm
+Length of End Connection Pin
+3mm
+Contact Material
+黄铜
+Contact Plating
+金
+Operating Temperature
+-40℃~+105℃
+Description
+插针结构:2x4P;间距:2.54mm;行距:2.54mm;圆针/方针:方针;安装方式:直插;排数:双排;总PIN位数:8P;额定电流:2.5A;配合针长度:6mm;塑高:2.54mm;端接针长度:3mm;触头材质:黄铜;触头镀层:金;工作温度:-40℃~+105℃;
+
+*
+]
+[
+DESIGNATOR
+H4
+FOOTPRINT
+HDR-TH_26P-P2.54-V-F-R2-C13-S2.54-3
+PARTTYPE
+X5521FV-2x13-C70D30-1000
+DESCRIPTION
+插孔结构:2x13P;间距:2.54mm;行距:2.54mm;圆孔/方孔:圆孔;安装方式:直插;排数:双排;总孔位数:26P;额定电流:3A;额定电压:-;插孔方向:顶部;塑高:7mm;触头材质:黄铜;触头镀层:金;工作温度:-40℃~+105℃;
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+X5521FV-2X13-C70D30-1000
+Designator
+H4
+Device
+X5521FV-2x13-C70D30-1000
+Unique ID
+gge365
+Name
+X5521FV-2x13-C70D30-1000
+Reuse Block
+
+Group ID
+
+Channel ID
+
+LCSC Part Name
+间距:2.54mm 2x13P 直插
+Supplier Part
+C2682203
+Manufacturer
+XKB Connection(中国星坤)
+Manufacturer Part
+X5521FV-2x13-C70D30-1000
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/X5521FV-2x13-C70D30-1000/2776426.html
+Supplier
+LCSC
+3D Model Title
+HDR-TH_26P-P2.54-F-LI-2X13P-R1
+Holes Structure
+2x13P
+Pitch
+2.54mm
+Row Spacing
+2.54mm
+Circular Hole / Square Hole
+圆孔
+Mounting Type
+直插
+Number of Rows
+双排
+Number of Positions
+26P
+Current Rating
+3A
+Voltage Rating (Max)
+-
+Holes Direction
+顶部
+Insulation Height
+7mm
+Contact Material
+黄铜
+Contact Plating
+金
+Operating Temperature
+-40℃~+105℃
+Description
+插孔结构:2x13P;间距:2.54mm;行距:2.54mm;圆孔/方孔:圆孔;安装方式:直插;排数:双排;总孔位数:26P;额定电流:3A;额定电压:-;插孔方向:顶部;塑高:7mm;触头材质:黄铜;触头镀层:金;工作温度:-40℃~+105℃;
+
+*
+]
+[
+DESIGNATOR
+H5
+FOOTPRINT
+HDR-TH_26P-P2.54-V-F-R2-C13-S2.54-3
+PARTTYPE
+X5521FV-2x13-C70D30-1000
+DESCRIPTION
+插孔结构:2x13P;间距:2.54mm;行距:2.54mm;圆孔/方孔:圆孔;安装方式:直插;排数:双排;总孔位数:26P;额定电流:3A;额定电压:-;插孔方向:顶部;塑高:7mm;触头材质:黄铜;触头镀层:金;工作温度:-40℃~+105℃;
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+X5521FV-2X13-C70D30-1000
+Designator
+H5
+Device
+X5521FV-2x13-C70D30-1000
+Unique ID
+gge366
+Name
+X5521FV-2x13-C70D30-1000
+LCSC Part Name
+间距:2.54mm 2x13P 直插
+Supplier Part
+C2682203
+Manufacturer
+XKB Connection(中国星坤)
+Manufacturer Part
+X5521FV-2x13-C70D30-1000
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/X5521FV-2x13-C70D30-1000/2776426.html
+Supplier
+LCSC
+3D Model Title
+HDR-TH_26P-P2.54-F-LI-2X13P-R1
+Holes Structure
+2x13P
+Pitch
+2.54mm
+Row Spacing
+2.54mm
+Circular Hole / Square Hole
+圆孔
+Mounting Type
+直插
+Number of Rows
+双排
+Number of Positions
+26P
+Current Rating
+3A
+Holes Direction
+顶部
+Insulation Height
+7mm
+Contact Material
+黄铜
+Contact Plating
+金
+Operating Temperature
+-40℃~+105℃
+Description
+插孔结构:2x13P;间距:2.54mm;行距:2.54mm;圆孔/方孔:圆孔;安装方式:直插;排数:双排;总孔位数:26P;额定电流:3A;额定电压:-;插孔方向:顶部;塑高:7mm;触头材质:黄铜;触头镀层:金;工作温度:-40℃~+105℃;
+Voltage Rating (Max)
+-
+
+*
+]
+[
+DESIGNATOR
+RST1
+FOOTPRINT
+SW-SMD_L3.9-W3.0-P4.45
+PARTTYPE
+TS-1088-AR02016
+DESCRIPTION
+电路结构:单刀单掷;按钮形状:圆形按钮;作用力:1.6N;安装方式:立贴;开关长度:4mm;开关宽度:3mm;开关高度:2mm;带支架:不带支架;触点电流:50mA;额定电压:12V;工作寿命:10万次;
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+TS-1088-AR02016
+Designator
+RST1
+Device
+TS-1088-AR02016
+Unique ID
+gge309_1
+LCSC Part Name
+4*3*2mm 立贴 轻触开关
+Supplier Part
+C720477
+Manufacturer
+XUNPU(讯普)
+Manufacturer Part
+TS-1088-AR02016
+Supplier Footprint
+SMD,4x3mm
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1088-AR02016/763484.html
+Supplier
+LCSC
+3D Model Title
+SW-SMD_L3.9-W2.9-H2.0-LS4.8
+Circuit
+单刀单掷
+Actuator Style
+圆形按钮
+Operating Force
+1.6N
+Mounting Type
+立贴
+Length
+4mm
+Width
+3mm
+Switch Height
+2mm
+with Bracket
+不带支架
+Contact Current
+50mA
+Voltage Rating
+12V
+Actuator/Cap Color
+黑色
+Termination Style
+SMD接片
+Life
+10万次
+Operating Temperature
+-30℃~+80℃
+Name
+TS-1088-AR02016
+Description
+电路结构:单刀单掷;按钮形状:圆形按钮;作用力:1.6N;安装方式:立贴;开关长度:4mm;开关宽度:3mm;开关高度:2mm;带支架:不带支架;触点电流:50mA;额定电压:12V;工作寿命:10万次;
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+PWR1
+FOOTPRINT
+SW-SMD_L3.9-W3.0-P4.45
+PARTTYPE
+TS-1088-AR02016
+DESCRIPTION
+电路结构:单刀单掷;按钮形状:圆形按钮;作用力:1.6N;安装方式:立贴;开关长度:4mm;开关宽度:3mm;开关高度:2mm;带支架:不带支架;触点电流:50mA;额定电压:12V;工作寿命:10万次;
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+TS-1088-AR02016
+Designator
+PWR1
+Device
+TS-1088-AR02016
+Unique ID
+gge309_2
+LCSC Part Name
+4*3*2mm 立贴 轻触开关
+Supplier Part
+C720477
+Manufacturer
+XUNPU(讯普)
+Manufacturer Part
+TS-1088-AR02016
+Supplier Footprint
+SMD,4x3mm
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1088-AR02016/763484.html
+Supplier
+LCSC
+3D Model Title
+SW-SMD_L3.9-W2.9-H2.0-LS4.8
+Circuit
+单刀单掷
+Actuator Style
+圆形按钮
+Operating Force
+1.6N
+Mounting Type
+立贴
+Length
+4mm
+Width
+3mm
+Switch Height
+2mm
+with Bracket
+不带支架
+Contact Current
+50mA
+Voltage Rating
+12V
+Actuator/Cap Color
+黑色
+Termination Style
+SMD接片
+Life
+10万次
+Operating Temperature
+-30℃~+80℃
+Name
+TS-1088-AR02016
+Description
+电路结构:单刀单掷;按钮形状:圆形按钮;作用力:1.6N;安装方式:立贴;开关长度:4mm;开关宽度:3mm;开关高度:2mm;带支架:不带支架;触点电流:50mA;额定电压:12V;工作寿命:10万次;
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+USB1
+FOOTPRINT
+USB-C-SMD_TYPE-C-16PIN-2MD-073
+PARTTYPE
+TYPE-C 16PIN 2MD(073)
+DESCRIPTION
+连接器类型:Type-C;协议标准:-;公母:母;安装方式:卧贴;触点数量:16P;端口数量:1;额定电流 - 电源:3A;工作温度:-25℃~+85℃;
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+TYPE-C 16PIN 2MD(073)
+Designator
+USB1
+Device
+TYPE-C 16PIN 2MD(073)
+Unique ID
+gge367
+LCSC Part Name
+Type-C 母 卧贴
+Supplier Part
+C2765186
+Manufacturer
+SHOU HAN(首韩)
+Manufacturer Part
+TYPE-C 16PIN 2MD(073)
+Supplier Footprint
+SMD
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/TYPE-C%252016PIN%25202MD(073)/2901843.html
+Supplier
+LCSC
+3D Model Title
+USB-C-SMD_TYPE-C-6PIN-2MD-073
+Connector Type
+Type-C
+Protocol Standard
+-
+Gender
+母
+Mounting Type
+卧贴
+Number of Contacts
+16P
+Number of Ports
+1
+Current Rating-Power
+3A
+Voltage Rating
+5V
+Connect-Disconnect Life
+1万次
+Supplementary Features
+-
+Center Height
+-
+Length
+-
+Detection color
+黑色
+Operating Temperature
+-25℃~+85℃
+Name
+TYPE-C 16PIN 2MD(073)
+Description
+连接器类型:Type-C;协议标准:-;公母:母;安装方式:卧贴;触点数量:16P;端口数量:1;额定电流 - 电源:3A;工作温度:-25℃~+85℃;
+Reuse Block
+
+Group ID
+
+Channel ID
+
+
+*
+]
+[
+DESIGNATOR
+USB2
+FOOTPRINT
+USB-A-TH_10.0QHHTZB6.3
+PARTTYPE
+10.0 QHHTZB6.3
+DESCRIPTION
+连接器类型:Type-A;协议标准:USB 2.0;公母:母;安装方式:卧贴;触点数量:4P;端口数量:1;额定电流 - 电源:1.5A;工作温度:-25℃~+85℃;
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+10.0 QHHTZB6.3
+Designator
+USB2
+Device
+10.0 QHHTZB6.3
+Unique ID
+gge369
+Name
+10.0 QHHTZB6.3
+Reuse Block
+
+Group ID
+
+Channel ID
+
+LCSC Part Name
+Type-A 母 卧贴
+Supplier Part
+C668591
+Manufacturer
+SHOU HAN(首韩)
+Manufacturer Part
+10.0 QHHTZB6.3
+Supplier Footprint
+SMD
+JLCPCB Part Class
+扩展库
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20200618/C668591_4974797655F912CB13E5351AD3DDB1B7.pdf
+Supplier
+LCSC
+3D Model Title
+USB-A-TH_10.0QHHTZB6.3
+Connector Type
+Type-A
+Protocol Standard
+USB 2.0
+Gender
+母
+Mounting Type
+卧贴
+Number of Contacts
+4P
+Number of Ports
+1
+Current Rating-Power
+1.5A
+Voltage Rating
+30V
+Connect-Disconnect Life
+5千次
+Supplementary Features
+-
+Center Height
+-
+Length
+10mm
+Detection color
+黑色
+Operating Temperature
+-25℃~+85℃
+Description
+连接器类型:Type-A;协议标准:USB 2.0;公母:母;安装方式:卧贴;触点数量:4P;端口数量:1;额定电流 - 电源:1.5A;工作温度:-25℃~+85℃;
+
+*
+]
+[
+DESIGNATOR
+R6
+FOOTPRINT
+R0603
+PARTTYPE
+FRC0402J512 TS
+DESCRIPTION
+电阻类型:厚膜电阻;阻值:5.1kΩ;精度:±5%;功率:62.5mW;工作电压:50V;温度系数:±100ppm/℃;
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R6
+Symbol
+电阻
+Device
+FRC0402J512 TS
+Name
+5.1kΩ
+Unique ID
+gge289_0
+LCSC Part Name
+5.1kΩ ±5% 62.5mW 厚膜电阻
+Supplier Part
+C2906948
+Manufacturer
+FOJAN(富捷)
+Manufacturer Part
+FRC0402J512 TS
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+厚膜电阻
+Value
+5.1kΩ
+Tolerance
+±5%
+Power(Watts)
+62.5mW
+Temperature Coefficient
+±100ppm/℃
+Description
+电阻类型:厚膜电阻;阻值:5.1kΩ;精度:±5%;功率:62.5mW;工作电压:50V;温度系数:±100ppm/℃;
+Voltage-Supply(Max)
+50V
+Operating Temperature
+-55℃~+155℃
+
+*
+]
+[
+DESIGNATOR
+R5
+FOOTPRINT
+R0603
+PARTTYPE
+FRC0402J512 TS
+DESCRIPTION
+电阻类型:厚膜电阻;阻值:5.1kΩ;精度:±5%;功率:62.5mW;工作电压:50V;温度系数:±100ppm/℃;
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Designator
+R5
+Symbol
+电阻
+Device
+FRC0402J512 TS
+Name
+5.1kΩ
+Unique ID
+gge289_1
+LCSC Part Name
+5.1kΩ ±5% 62.5mW 厚膜电阻
+Supplier Part
+C2906948
+Manufacturer
+FOJAN(富捷)
+Manufacturer Part
+FRC0402J512 TS
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+LCSC
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+厚膜电阻
+Value
+5.1kΩ
+Tolerance
+±5%
+Power(Watts)
+62.5mW
+Temperature Coefficient
+±100ppm/℃
+Description
+电阻类型:厚膜电阻;阻值:5.1kΩ;精度:±5%;功率:62.5mW;工作电压:50V;温度系数:±100ppm/℃;
+Voltage-Supply(Max)
+50V
+Operating Temperature
+-55℃~+155℃
+
+*
+]
+[
+DESIGNATOR
+H3
+FOOTPRINT
+HDR-TH_8P-P2.54-V-M-R2-C4-S2.54
+PARTTYPE
+PZ2.54-2*4
+DESCRIPTION
+插针结构:2x4P;间距:2.54mm;行距:2.54mm;圆针/方针:方针;安装方式:直插;排数:双排;总PIN位数:8P;额定电流:2.5A;配合针长度:6mm;塑高:2.54mm;端接针长度:3mm;触头材质:黄铜;触头镀层:金;工作温度:-40℃~+105℃;
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+PZ2.54-2*4
+Designator
+H3
+Device
+PZ2.54-2*4
+Unique ID
+gge364_0
+Name
+PZ2.54-2*4
+Reuse Block
+
+Group ID
+
+Channel ID
+
+LCSC Part Name
+2x4P 间距:2.54mm 方针 直插
+Supplier Part
+C5156676
+Manufacturer
+ZHOURI(洲日)
+Manufacturer Part
+PZ2.54-2*4
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/PZ2.54-2*4/5790845.html
+Supplier
+LCSC
+3D Model Title
+HDR-TH_8P-P2.54-M-LI-2X4P
+Pin Structure
+2x4P
+Pitch
+2.54mm
+Row Spacing
+2.54mm
+Circluar Pins/Square Pins
+方针
+Mounting Type
+直插
+Number of Rows
+双排
+Number of Pins
+8P
+Current Rating
+2.5A
+Length of Mating Pin
+6mm
+Insulation Height
+2.54mm
+Length of End Connection Pin
+3mm
+Contact Material
+黄铜
+Contact Plating
+金
+Operating Temperature
+-40℃~+105℃
+Description
+插针结构:2x4P;间距:2.54mm;行距:2.54mm;圆针/方针:方针;安装方式:直插;排数:双排;总PIN位数:8P;额定电流:2.5A;配合针长度:6mm;塑高:2.54mm;端接针长度:3mm;触头材质:黄铜;触头镀层:金;工作温度:-40℃~+105℃;
+
+*
+]
+[
+DESIGNATOR
+H2
+FOOTPRINT
+HDR-TH_8P-P2.54-V-M-R2-C4-S2.54
+PARTTYPE
+PZ2.54-2*4
+DESCRIPTION
+插针结构:2x4P;间距:2.54mm;行距:2.54mm;圆针/方针:方针;安装方式:直插;排数:双排;总PIN位数:8P;额定电流:2.5A;配合针长度:6mm;塑高:2.54mm;端接针长度:3mm;触头材质:黄铜;触头镀层:金;工作温度:-40℃~+105℃;
+Component Kind
+Standard
+Add into BOM
+yes
+Convert to PCB
+yes
+Symbol
+PZ2.54-2*4
+Designator
+H2
+Device
+PZ2.54-2*4
+Unique ID
+gge364_1
+Name
+PZ2.54-2*4
+Reuse Block
+
+Group ID
+
+Channel ID
+
+LCSC Part Name
+2x4P 间距:2.54mm 方针 直插
+Supplier Part
+C5156676
+Manufacturer
+ZHOURI(洲日)
+Manufacturer Part
+PZ2.54-2*4
+Supplier Footprint
+插件,P=2.54mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/PZ2.54-2*4/5790845.html
+Supplier
+LCSC
+3D Model Title
+HDR-TH_8P-P2.54-M-LI-2X4P
+Pin Structure
+2x4P
+Pitch
+2.54mm
+Row Spacing
+2.54mm
+Circluar Pins/Square Pins
+方针
+Mounting Type
+直插
+Number of Rows
+双排
+Number of Pins
+8P
+Current Rating
+2.5A
+Length of Mating Pin
+6mm
+Insulation Height
+2.54mm
+Length of End Connection Pin
+3mm
+Contact Material
+黄铜
+Contact Plating
+金
+Operating Temperature
+-40℃~+105℃
+Description
+插针结构:2x4P;间距:2.54mm;行距:2.54mm;圆针/方针:方针;安装方式:直插;排数:双排;总PIN位数:8P;额定电流:2.5A;配合针长度:6mm;塑高:2.54mm;端接针长度:3mm;触头材质:黄铜;触头镀层:金;工作温度:-40℃~+105℃;
+
+*
+]
+(
+$1N44 
+U1-7 AQS221R2S-7 Passive 
+R3-1 FRC0603F2201TS-1 Passive 
+)
+(
+GND 
+U1-8 AQS221R2S-8 Passive 
+R2-1 FRC0603J471 TS-1 Passive 
+R1-1 FRC0603J471 TS-1 Passive 
+R4-1 0603WAF1002T5E-1 Input   
+H4-26 X5521FV-2x13-C70D30-1000-26 Passive 
+H4-5 X5521FV-2x13-C70D30-1000-5 Passive 
+H4-13 X5521FV-2x13-C70D30-1000-13 Passive 
+H4-10 X5521FV-2x13-C70D30-1000-10 Passive 
+H4-19 X5521FV-2x13-C70D30-1000-19 Passive 
+H5-26 X5521FV-2x13-C70D30-1000-26 Passive 
+H5-3 X5521FV-2x13-C70D30-1000-3 Passive 
+H5-9 X5521FV-2x13-C70D30-1000-9 Passive 
+H5-17 X5521FV-2x13-C70D30-1000-17 Passive 
+H5-8 X5521FV-2x13-C70D30-1000-8 Passive 
+H5-4 X5521FV-2x13-C70D30-1000-4 Passive 
+H5-25 X5521FV-2x13-C70D30-1000-25 Passive 
+USB1-A1B12 TYPE-C 16PIN 2MD(073)-GND Passive 
+USB1-B1A12 TYPE-C 16PIN 2MD(073)-GND Passive 
+USB2-4 10.0 QHHTZB6.3-GND Passive 
+R6-1 FRC0402J512 TS-1 Input   
+R5-1 FRC0402J512 TS-1 Input   
+H3-8 PZ2.54-2*4-8 Passive 
+H3-6 PZ2.54-2*4-6 Passive 
+H3-5 PZ2.54-2*4-5 Passive 
+H3-7 PZ2.54-2*4-7 Passive 
+H2-8 PZ2.54-2*4-8 Passive 
+H2-3 PZ2.54-2*4-3 Passive 
+H2-4 PZ2.54-2*4-4 Passive 
+H2-7 PZ2.54-2*4-7 Passive 
+)
+(
+PWR_DET 
+U1-9 AQS221R2S-9 Passive 
+R4-2 0603WAF1002T5E-2 Input   
+H5-10 X5521FV-2x13-C70D30-1000-10 Passive 
+)
+(
+3V3_SYS 
+U1-10 AQS221R2S-10 Passive 
+H5-6 X5521FV-2x13-C70D30-1000-6 Passive 
+)
+(
+IO_PWR 
+U1-3 AQS221R2S-3 Passive 
+H5-7 X5521FV-2x13-C70D30-1000-7 Passive 
+)
+(
+$1N61 
+U1-4 AQS221R2S-4 Passive 
+R2-2 FRC0603J471 TS-2 Passive 
+)
+(
+PWR_SW1 
+U1-13 AQS221R2S-13 Passive 
+H1-8 PZ2.54-2*4-8 Passive 
+H1-7 PZ2.54-2*4-7 Passive 
+PWR1-2 TS-1088-AR02016-2 Passive 
+)
+(
+PWR_SW2 
+U1-14 AQS221R2S-14 Passive 
+H1-6 PZ2.54-2*4-6 Passive 
+H1-5 PZ2.54-2*4-5 Passive 
+PWR1-1 TS-1088-AR02016-1 Passive 
+)
+(
+RST_SW2 
+U1-16 AQS221R2S-16 Passive 
+H1-1 PZ2.54-2*4-1 Passive 
+H1-2 PZ2.54-2*4-2 Passive 
+RST1-1 TS-1088-AR02016-1 Passive 
+)
+(
+RST_SW1 
+U1-15 AQS221R2S-15 Passive 
+H1-3 PZ2.54-2*4-3 Passive 
+H1-4 PZ2.54-2*4-4 Passive 
+RST1-2 TS-1088-AR02016-2 Passive 
+)
+(
+$1N64 
+U1-2 AQS221R2S-2 Passive 
+R1-2 FRC0603J471 TS-2 Passive 
+)
+(
+IO_RST 
+U1-1 AQS221R2S-1 Passive 
+H5-12 X5521FV-2x13-C70D30-1000-12 Passive 
+)
+(
+USB5V 
+R3-2 FRC0603F2201TS-2 Passive 
+USB1-A4B9 TYPE-C 16PIN 2MD(073)-VBUS Passive 
+USB1-B4A9 TYPE-C 16PIN 2MD(073)-VBUS Passive 
+USB2-1 10.0 QHHTZB6.3-VCC Passive 
+)
+(
+5V_SYS_B 
+H4-1 X5521FV-2x13-C70D30-1000-1 Passive 
+H4-3 X5521FV-2x13-C70D30-1000-3 Passive 
+H3-1 PZ2.54-2*4-1 Passive 
+H3-3 PZ2.54-2*4-3 Passive 
+)
+(
+D- 
+H4-22 X5521FV-2x13-C70D30-1000-22 Passive 
+USB1-B7 TYPE-C 16PIN 2MD(073)-Dn2 Passive 
+USB1-A7 TYPE-C 16PIN 2MD(073)-Dn1 Passive 
+USB2-2 10.0 QHHTZB6.3-D- Passive 
+)
+(
+3V3_SYS_B 
+H4-18 X5521FV-2x13-C70D30-1000-18 Passive 
+H4-2 X5521FV-2x13-C70D30-1000-2 Passive 
+H3-4 PZ2.54-2*4-4 Passive 
+H3-2 PZ2.54-2*4-2 Passive 
+)
+(
+D+ 
+H4-21 X5521FV-2x13-C70D30-1000-21 Passive 
+USB1-A6 TYPE-C 16PIN 2MD(073)-Dp1 Passive 
+USB1-B6 TYPE-C 16PIN 2MD(073)-Dp2 Passive 
+USB2-3 10.0 QHHTZB6.3-D+ Passive 
+)
+(
+GPIO6 
+H5-11 X5521FV-2x13-C70D30-1000-11 Passive 
+H2-2 PZ2.54-2*4-2 Passive 
+)
+(
+GPIO47 
+H5-16 X5521FV-2x13-C70D30-1000-16 Passive 
+H2-5 PZ2.54-2*4-5 Passive 
+)
+(
+GPIO53 
+H5-13 X5521FV-2x13-C70D30-1000-13 Passive 
+H2-6 PZ2.54-2*4-6 Passive 
+)
+(
+GPIO54 
+H5-14 X5521FV-2x13-C70D30-1000-14 Passive 
+H2-1 PZ2.54-2*4-1 Passive 
+)
+(
+5V_SYS 
+H5-2 X5521FV-2x13-C70D30-1000-2 Passive 
+)
+(
+$1N144 
+USB1-A5 TYPE-C 16PIN 2MD(073)-CC1 Passive 
+R5-2 FRC0402J512 TS-2 Input   
+)
+(
+$1N142 
+USB1-B5 TYPE-C 16PIN 2MD(073)-CC2 Passive 
+R6-2 FRC0402J512 TS-2 Input   
+)
