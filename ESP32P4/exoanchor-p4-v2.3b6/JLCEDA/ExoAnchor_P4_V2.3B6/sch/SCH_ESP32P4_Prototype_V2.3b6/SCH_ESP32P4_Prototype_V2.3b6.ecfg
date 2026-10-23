@@ -1,0 +1,4 @@
+{"type":"DOCHEAD","ticket":711891}||{"docType":"SCH","client":"3e4336273a910afd","uuid":"886a5bd229c57a79","updateTime":1783986708112,"version":"1783986708112","editVersion":"3.2.175","user":{"uuid":"886a5bd229c57a79"}}|
+{"type":"META","ticket":711891,"id":"META"}||{"title":"SCH_ESP32P4_Prototype_V2.3b6","source":"","board":"c4f64d55edbdec2f","zIndex":null}|
+{"type":"RULE","ticket":675888,"id":"[\"RULE\",\"TRACK\",\"copperThickness1oz\"]"}||{"ruleState":"DEFAULT","ruleContext":{"unit":"mm","track":{"isOpen":true,"content":[{"layerId":1,"stroDef":0.254,"stroMax":2.54,"stroMin":0.127}]}}}|
+{"type":"RULE","ticket":675889,"id":"[\"RULE\",\"TRACK\",\"copperThickness2oz\"]"}||{"ruleState":"NORMAL","ruleContext":{"unit":"mm","track":{"isOpen":true,"content":[{"layerId":1,"stroDef":0.254,"stroMax":2.54,"stroMin":0.203}]}}}

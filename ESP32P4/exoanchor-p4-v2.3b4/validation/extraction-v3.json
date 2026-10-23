@@ -1,0 +1,1354 @@
+{
+  "source_file": "ProPrj_ExoAnchor-ESP32P4_2026-09-30.epro2",
+  "source_sha256": "5e95f3561d4b21c98f38bcf573d4e37464e4ec0bee86be658abedf655bd6ef1b",
+  "board_name": "ESP32P4_Prototype_V2.3b4layers_260724封存（已验证）",
+  "board_id": "8e5cb2ceb957c695",
+  "schematic_id": "16e5e15b4f9b57dd",
+  "pcb_id": "83b73b92525e5039",
+  "counts": {
+    "FOOTPRINT": 39,
+    "SYMBOL": 90,
+    "DEVICE": 78,
+    "BOARD": 1,
+    "SCH": 1,
+    "SCH_PAGE": 8,
+    "PCB": 1,
+    "CONFIG": 1,
+    "FONT": 1,
+    "BLOB": 1
+  },
+  "documents": [
+    {
+      "uuid": "83b73b92525e5039_7181f244921dbb50",
+      "kind": "FOOTPRINT",
+      "title": "WSON-8_L6.0-W5.0-P1.27-TL-EP",
+      "sha256": "bee2d0504d6068fea24b9267d842d2e95cd19207ba997b9d673114bed5e22072"
+    },
+    {
+      "uuid": "83b73b92525e5039_4cc893fbd7d431b8",
+      "kind": "FOOTPRINT",
+      "title": "HDR-TH_22P-P2.54-H-M-R2-C11-S2.54",
+      "sha256": "da1f8cd9cee106117029c1cbaa7f5b52d44239971737b5aa9482c75d800d3da2"
+    },
+    {
+      "uuid": "7ddb6fe638d3c63a",
+      "kind": "FOOTPRINT",
+      "title": "CONN-SMD_3P-P1.00_HDGC_HDGC1002WV-S-3P",
+      "sha256": "54af7ee6d0f864037e351643381fc6966dc4702c926dd76bd427787f342ceb3f"
+    },
+    {
+      "uuid": "cf6aeb058ece2990",
+      "kind": "FOOTPRINT",
+      "title": "USB-C-SMD_HX-TYPE-C-16P-L8.35",
+      "sha256": "c6bab9c72f5976b9eb22e4226ae89052e1b09b51f9e37765f08c064316a7a81e"
+    },
+    {
+      "uuid": "a73f925da58b6308",
+      "kind": "FOOTPRINT",
+      "title": "WSON-8_L6.0-W5.0-P1.27-TL-EP",
+      "sha256": "c08d148ebfbb367581e9ead842e2ca2c5cdb605c2918f8a3e4a5c843c647ba22"
+    },
+    {
+      "uuid": "13f3e68913be2655",
+      "kind": "FOOTPRINT",
+      "title": "SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL",
+      "sha256": "6ce6bbf3cfe736732d8b1326606426cbda8d844b0767608f1470821f72dffa14"
+    },
+    {
+      "uuid": "e8e1848404e81c29",
+      "kind": "FOOTPRINT",
+      "title": "WSON-8_L6.0-W8.0-P1.27-BL-EP",
+      "sha256": "5d5c8b37554f2443dc1fa0db43265dd807ed50a24098d55cb614353b948726bb"
+    },
+    {
+      "uuid": "7bd28ea81d0bde42",
+      "kind": "FOOTPRINT",
+      "title": "TF-SMD_XKTF-1307-18",
+      "sha256": "65e8b029e5697984180e25a7604348cbb0ea2e99d8955b9c5c705ba7e9cce6b4"
+    },
+    {
+      "uuid": "c912c48aae91270b",
+      "kind": "FOOTPRINT",
+      "title": "HDR-TH_22P-P2.54-H-M-R2-C11-S2.54",
+      "sha256": "ef81ef598b5d353966019ca3153cf61bd03331fd12cb09769b58074292c4b868"
+    },
+    {
+      "uuid": "a0141fe0ecb687ce",
+      "kind": "FOOTPRINT",
+      "title": "HVQFN-24_L3.0-W3.0-P0.40-TL-EP1.9",
+      "sha256": "b513549a4875baf3c07f0e62b96795c4d5f1960f2848e1c2d25ed99055b69803"
+    },
+    {
+      "uuid": "b55ebe7d142dc15f",
+      "kind": "FOOTPRINT",
+      "title": "IND-SMD_L2.5-W2.0_WPN252012H",
+      "sha256": "914eb73725f3ce1b2344f1d026d5a4aa271d39ef9faa990770ba56f565405a50"
+    },
+    {
+      "uuid": "563c2754c0729829",
+      "kind": "FOOTPRINT",
+      "title": "QFN-104_L10.0-W10.0-P0.35-TL-EP7.5",
+      "sha256": "c62aea5eec7bde22a74bb762bcc87b2a862594cd01a0ce75f9c3b702090a300c"
+    },
+    {
+      "uuid": "aba8f70709e6be9f",
+      "kind": "FOOTPRINT",
+      "title": "C0402",
+      "sha256": "6d91504fab8e91ee765e50b4595bf38f1c685d96cbf9e157e0033c1d15cfd0d0"
+    },
+    {
+      "uuid": "b4a31b2586d48458",
+      "kind": "FOOTPRINT",
+      "title": "R0402",
+      "sha256": "bdbb62f3c2be705f9d76a31cc5c966ceb1c13165c0bf1e1e7b80d51631cafe8e"
+    },
+    {
+      "uuid": "eb27e37acbb35b0d",
+      "kind": "FOOTPRINT",
+      "title": "C0805",
+      "sha256": "c3cc3fad63f0534324c6b5684d98bfef57c26a869c273a0cac534db20e3f95fe"
+    },
+    {
+      "uuid": "a0d28e2e63dca037",
+      "kind": "FOOTPRINT",
+      "title": "C0805",
+      "sha256": "ebe4c3b2cafe9c13cdf3f2db346ba799d4201e20bb284814986743f7d089349d"
+    },
+    {
+      "uuid": "0fd5099d582e1be3",
+      "kind": "FOOTPRINT",
+      "title": "L0603",
+      "sha256": "6e9b5acdccad741ca5460202253b1d1c65a5625df99a5780ca4e3709af24b946"
+    },
+    {
+      "uuid": "62af29eafbf72274",
+      "kind": "FOOTPRINT",
+      "title": "C0603",
+      "sha256": "74b32f141bf17fa154677501eb2c683526a9f2475c42c183e56f564ac7c1ff15"
+    },
+    {
+      "uuid": "01c9115766c15ab8",
+      "kind": "FOOTPRINT",
+      "title": "LED0603-RD_RED",
+      "sha256": "5ff5d4da157f5c97458a8350c640a43575c69ed79b562c6001453eb2ce40da99"
+    },
+    {
+      "uuid": "cd4ec1f9298bc215",
+      "kind": "FOOTPRINT",
+      "title": "HDMI-SMD_HDMI-001S",
+      "sha256": "6abdb1ded15ae5eb8c327588cc04d9f8b6d8343fd52dc8c6485d9f43117dd90f"
+    },
+    {
+      "uuid": "29d920bda0632502",
+      "kind": "FOOTPRINT",
+      "title": "D0603-BI",
+      "sha256": "fe765a599389703ad522651be429d6841f59a86f56b4c8540dd09f69e3245c40"
+    },
+    {
+      "uuid": "5b0cdc5bc8158fcc",
+      "kind": "FOOTPRINT",
+      "title": "USON-10_L2.5-W1.0-P0.50-BL",
+      "sha256": "c33ae039bef3cc0beb33e43e40bdf9daa41aae2c922f9ec7b2f0d36d519ff5f7"
+    },
+    {
+      "uuid": "7427298421702f33",
+      "kind": "FOOTPRINT",
+      "title": "L0603",
+      "sha256": "6ec6979e9e751869b9c360319c717a579ecef70155aaea666ae1cffe0e6b9568"
+    },
+    {
+      "uuid": "b8ae6daceeb96b00",
+      "kind": "FOOTPRINT",
+      "title": "QFN-48_L7.0-W7.0-P0.50-TL-EP4.1",
+      "sha256": "46d76367b50720b0f48eac58f51a30f7988f1de2d63d26958711c30dda8be993"
+    },
+    {
+      "uuid": "52b39882852f9c49",
+      "kind": "FOOTPRINT",
+      "title": "R0603",
+      "sha256": "622b2dd0e12db55f8fb64796c3a628309f3f073f91ea6675be825fac45f87973"
+    },
+    {
+      "uuid": "601aad736d797190",
+      "kind": "FOOTPRINT",
+      "title": "R0603",
+      "sha256": "2a46ecef35dcd251eda1ee70b1732035a6c938f2b19a440314563ee47de0512f"
+    },
+    {
+      "uuid": "6930f09ce257754d",
+      "kind": "FOOTPRINT",
+      "title": "IND-SMD_L3.0-W3.0_FNR30XXS",
+      "sha256": "de8f5f8d6c493ad551b5becd18570369180de7e32efbed9902b232391ca8fc4f"
+    },
+    {
+      "uuid": "f09f309606f2df13",
+      "kind": "FOOTPRINT",
+      "title": "SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR",
+      "sha256": "1f3b27de54ac6af554f5e9540325efc14466a204c69923bc833a4bc7908edf77"
+    },
+    {
+      "uuid": "b23e0a2694759615",
+      "kind": "FOOTPRINT",
+      "title": "RJ45-TH_HR911105A",
+      "sha256": "9f2f0a3794e0786ae3cd117f8fb100ccfdfae7ac1296239c2a99f919da7c9b15"
+    },
+    {
+      "uuid": "9c9dbee86844ad0b",
+      "kind": "FOOTPRINT",
+      "title": "CRYSTAL-SMD_4P-L3.2-W2.5-BL",
+      "sha256": "b1b57f6878bf31a71c950e0298166c235715186f52a6b8e8d55a07a9b299cd3e"
+    },
+    {
+      "uuid": "8f1a861028ad6902",
+      "kind": "FOOTPRINT",
+      "title": "OSC-SMD_4P-L3.2-W2.5-BL_SIT8008BI",
+      "sha256": "a0d25fca4ad301765e66eea04d676f1fdbffee6f4233def30fbf36319a6f8a4c"
+    },
+    {
+      "uuid": "0f1821c56c0b7fcf",
+      "kind": "FOOTPRINT",
+      "title": "R0603",
+      "sha256": "aceb4f38fe1be94cf4a9bedc3e9e5d40bffa3e537fc20a7bf92249698f472df5"
+    },
+    {
+      "uuid": "a4480e4e8cb015cf",
+      "kind": "FOOTPRINT",
+      "title": "C0603",
+      "sha256": "24703ed11d7c2dd6a1f49965adcad1cb278632fcdb97ab045ef1fa5f79b1b967"
+    },
+    {
+      "uuid": "4ca11b917ef9395c",
+      "kind": "FOOTPRINT",
+      "title": "SO-16_L10.3-W4.4-P1.27-LS7.0-BL",
+      "sha256": "6edf550091760399902cb67c99b274a078cbb2a49ec9c70f2cef8e183c4294a0"
+    },
+    {
+      "uuid": "402ba6a96821245f",
+      "kind": "FOOTPRINT",
+      "title": "LED0603-FD",
+      "sha256": "2708e494a0d70faf181cae13d4bd75d0f1f08f2faed01ca3a9382b34481e8764"
+    },
+    {
+      "uuid": "72e19bbc066eefa4",
+      "kind": "FOOTPRINT",
+      "title": "TQFN-16_L3.0-W3.0-P0.50-BL-EP1.7",
+      "sha256": "067b0a3d1e22e18d9c27e831de824dd357a0f0fdd21c64fa5f97db2d1c890bed"
+    },
+    {
+      "uuid": "0ee4edd28b3d8714",
+      "kind": "FOOTPRINT",
+      "title": "SOT-563-6_L1.6-W1.2-P0.50-LS1.6-BL",
+      "sha256": "e1356580b79bea0a22109e5a06c5c49124eb56cefa10b22a16d3870d863cfee9"
+    },
+    {
+      "uuid": "92f207f81132fea3",
+      "kind": "FOOTPRINT",
+      "title": "C0402 去耦电容",
+      "sha256": "37dc459b50204ac8d8bb8bba1a468f6bef37f4a8bb29056d26de5348ee4879af"
+    },
+    {
+      "uuid": "ebaa11193e1e36b1",
+      "kind": "FOOTPRINT",
+      "title": "PCIe*1 key",
+      "sha256": "542f31e842d2300d8a95ee53515cb855d669e7efb5db70df7a7b03a69383bed3"
+    },
+    {
+      "uuid": "a214869392d7af8b",
+      "kind": "SYMBOL",
+      "title": "ZX-SH1.0-3PLT",
+      "sha256": "dfbb3609947ee1f0ac1bdb7fd3e0543a61cdbe7c4be22ed46186590dcd7ab62b"
+    },
+    {
+      "uuid": "6119756b62bfe7f1",
+      "kind": "SYMBOL",
+      "title": "CGA0805X5R226M250MT",
+      "sha256": "b40fb1672400c2e2adf4f6e8f23d231dc342ee85432a398ab9928a6c14c54480"
+    },
+    {
+      "uuid": "5d554e47e43da6f2",
+      "kind": "SYMBOL",
+      "title": "HX TYPE-C 16P L8.35",
+      "sha256": "84d784e37e66e669c97d4e233b7187ff28876927cb22c1a90228eed677c1f0b0"
+    },
+    {
+      "uuid": "8dcd2ee569f52205",
+      "kind": "SYMBOL",
+      "title": "AT24C16C-STUM-T",
+      "sha256": "8c456a3c10da9593e8d2abcc3f48f5e1a28d7cdbd5c62a5023f88c7c66bfb4ac"
+    },
+    {
+      "uuid": "b1617cc3c4b47c8f",
+      "kind": "SYMBOL",
+      "title": "GD5F2GQ5UEYIGR",
+      "sha256": "5a24554eeefe5a29bca38a9d5054f0d4fea758ab8c3814088a4404a63672c43d"
+    },
+    {
+      "uuid": "368d338fdb2a0c9e",
+      "kind": "SYMBOL",
+      "title": "SLPESD0603M05",
+      "sha256": "84be36134fdc9192815917017a7914a8dfdeb3ca31fd07e75bd65c8d86b355e3"
+    },
+    {
+      "uuid": "05bc2badbf42ce36",
+      "kind": "SYMBOL",
+      "title": "CGA0603X5R106M160JT",
+      "sha256": "d453121979357b12b6978895071c3561bb52a24d9a5d40ee43f98378988976f8"
+    },
+    {
+      "uuid": "c685d5b761dafbb2",
+      "kind": "SYMBOL",
+      "title": "XKTF-1307-18",
+      "sha256": "aef8b347852dcec159e0b09dbfa931274b2f82d1470f86f08c0f9a1424872bba"
+    },
+    {
+      "uuid": "f9b43b972349aa14",
+      "kind": "SYMBOL",
+      "title": "0603WAF2201T5E",
+      "sha256": "32a59d0b5d53c080816f0a305f0ac3bcaf7ac0980593960eed0b620b811363bd"
+    },
+    {
+      "uuid": "03a6030bc848ad7a",
+      "kind": "SYMBOL",
+      "title": "RT0603BRE072K49L",
+      "sha256": "d8ec03ae4158bb0cca562ff58fb36b68cedf1d2a73e7c4c3fc15268a508745be"
+    },
+    {
+      "uuid": "ad1c69221a839c5a",
+      "kind": "SYMBOL",
+      "title": "FRC0603F6491TS",
+      "sha256": "28c1a9cf7a51b12d04454fcfc6826f07a05fe9a47778b10e8014545b48f2f992"
+    },
+    {
+      "uuid": "b4448a22219aafcb",
+      "kind": "SYMBOL",
+      "title": "CL10C180JB8NNNC",
+      "sha256": "915db75ffadc8a76c5cca7be86f4411abbbb7778f4647f219067804b464dea4e"
+    },
+    {
+      "uuid": "fda2cef2060c884f",
+      "kind": "SYMBOL",
+      "title": "X6521WR-2×11H-C30D60",
+      "sha256": "37e83ca4eb354d630e254bb2251989a37ac3de9f15ddf3fe7a6c12169bbf2854"
+    },
+    {
+      "uuid": "9bd89718eb6fe3ee",
+      "kind": "SYMBOL",
+      "title": "FRC0402F1002TS",
+      "sha256": "c43966572adbb7a5abc0b12d7a939668f253a854de9db95cf433f7e93537ed62"
+    },
+    {
+      "uuid": "8605455e2f47116e",
+      "kind": "SYMBOL",
+      "title": "DP83825IRMQR",
+      "sha256": "2390771a5ff9b06b1d82300cb76279e69159d022a64d908d54ad06d1715f6c6d"
+    },
+    {
+      "uuid": "52650b6346246cb1",
+      "kind": "SYMBOL",
+      "title": "GD25Q128EWIGR",
+      "sha256": "30de57990c2d82fc4d529a24f63a5ec5db78c99d8a834f648e932a35ec0c0808"
+    },
+    {
+      "uuid": "c3d04ec62a9f00b1",
+      "kind": "SYMBOL",
+      "title": "FRC0402J512 TS",
+      "sha256": "5a26d2adc98197c0b8c36b1b2ae9f63a677b3d6e436cc1db156a5f8116d00bba"
+    },
+    {
+      "uuid": "5ffb442ed49587c2",
+      "kind": "SYMBOL",
+      "title": "0402CG120J500NT",
+      "sha256": "b517c2349a83763ef9121c6137866e0a3d67d65de47d9730591418f5d8a3d876"
+    },
+    {
+      "uuid": "96ca536a89ea8317",
+      "kind": "SYMBOL",
+      "title": "RC0402FR-074K7L",
+      "sha256": "ce63940be921800a0edab28f3e70e4bc341e122b0219f5d2f6e9617e257818bb"
+    },
+    {
+      "uuid": "a02e9aa785af72cb",
+      "kind": "SYMBOL",
+      "title": "FRC0402F5100TS",
+      "sha256": "9e3030a625c225cedbc9b3d120e83b378ff120469e155d0d79a7acbcee5290b4"
+    },
+    {
+      "uuid": "fc0da401793801ac",
+      "kind": "SYMBOL",
+      "title": "0402WGF220JTCE",
+      "sha256": "8b56dc4c46dba79636fe508de310f75e1259166c36cd3bb64e73cf2983a9b4e9"
+    },
+    {
+      "uuid": "59bf5b8d522c5060",
+      "kind": "SYMBOL",
+      "title": "RMC04024.02K1%N",
+      "sha256": "1dac60ad3edfe171bb0feed7f91e4ac1375ea6dfdc0f806fc56f4cc48a880c02"
+    },
+    {
+      "uuid": "5f78ec54f503311d",
+      "kind": "SYMBOL",
+      "title": "FRC0603F4533TS",
+      "sha256": "2e3e607683a02009ca1881c89950a3bab66256567b969d08ade2c3a7f7d62b67"
+    },
+    {
+      "uuid": "612b18372def6c3b",
+      "kind": "SYMBOL",
+      "title": "0402WGF2201TCE",
+      "sha256": "c41cd98e80006462d137301629d01b7965d7217a0b2243e5da1b3c9bbb35843b"
+    },
+    {
+      "uuid": "675a95b8d1235052",
+      "kind": "SYMBOL",
+      "title": "FRC0603F4993TS",
+      "sha256": "0a09eac9a4873af52267bd785fbf785e4026d24688a8bdbf666ec9788d381355"
+    },
+    {
+      "uuid": "0b8339605541b480",
+      "kind": "SYMBOL",
+      "title": "HGC0402R5106M100NTEJ",
+      "sha256": "7139e8db4fa66600dd54b385958dd3177e59b997b917d4063cbb62b26f1a43ca"
+    },
+    {
+      "uuid": "b2d7459d08844a58",
+      "kind": "SYMBOL",
+      "title": "CL10A106MA8NRNC",
+      "sha256": "859f8eb3cb569831855d677c0c8be1305dea50bd811642de39f4ec210b7c0b54"
+    },
+    {
+      "uuid": "12f7d14f52fcbb42",
+      "kind": "SYMBOL",
+      "title": "CC0603JRNPO9BN121",
+      "sha256": "409d2c96cde52a122c8244d2cfbdaa0b25c85d645ebb6452475419dbbbcf2586"
+    },
+    {
+      "uuid": "74736646797a3aca",
+      "kind": "SYMBOL",
+      "title": "CC0603KRX7R9BB104",
+      "sha256": "5eb05639a11aed2c0c6bce60fd050109e92fb34454063195b150abe00b313adf"
+    },
+    {
+      "uuid": "39dac5edaac4743a",
+      "kind": "SYMBOL",
+      "title": "0603WAF1001T5E",
+      "sha256": "e6a5484299f8b62858a68b742a30555ef472fd3ef73dace3e37ad5156b7f8bb6"
+    },
+    {
+      "uuid": "05afe3e8b445257a",
+      "kind": "SYMBOL",
+      "title": "CL10C200JB8NNNC",
+      "sha256": "bc677bdedcdccea7ff6a58ac2445e2121efbd3e5aa90ab54404b1f4009384aff"
+    },
+    {
+      "uuid": "69135c26d9645a8d",
+      "kind": "SYMBOL",
+      "title": "X322524MOB4SI",
+      "sha256": "b54304e529167df4b438984c11519f7bda6776d812b24b3a15f3edc0a88fd9c2"
+    },
+    {
+      "uuid": "55ae865405d8c78d",
+      "kind": "SYMBOL",
+      "title": "FRC0603F2201TS",
+      "sha256": "2bf0ed66d8ddbae568df0489ed12007b485a87da7047d0f80faa4fee235cfdcb"
+    },
+    {
+      "uuid": "12c4077814271f2b",
+      "kind": "SYMBOL",
+      "title": "FRC0603J471 TS",
+      "sha256": "fef6f78aded8891aa0767d1c2946e486ddd78edc146fd89d3be69505c0dd9cd0"
+    },
+    {
+      "uuid": "0079a71070e70bb3",
+      "kind": "SYMBOL",
+      "title": "0402WGF1002TCE",
+      "sha256": "7905bccfa76341ad81c6934dbe6d81ba35be1ce6dbc99f58665126d67b885cf5"
+    },
+    {
+      "uuid": "4b21cc8e8746a86b",
+      "kind": "SYMBOL",
+      "title": "CL05A105KA5NQNC",
+      "sha256": "af719370645e34f4e6c561ca81af9df8e62bc8127304bedc5aae4c736d3248d3"
+    },
+    {
+      "uuid": "cbd2f058a0521072",
+      "kind": "SYMBOL",
+      "title": "WPN252012H1R0MT",
+      "sha256": "7f986aba815da77584d6d815c52404d8fc3978dfa9f00e3826e7570cef0c1892"
+    },
+    {
+      "uuid": "29197c89f50e7c64",
+      "kind": "SYMBOL",
+      "title": "CL21A226MAQNNNE",
+      "sha256": "5c3af4db55ac04fd134823ad83715f510867238651a9269addb0086e2ad0b166"
+    },
+    {
+      "uuid": "77c943d55f977145",
+      "kind": "SYMBOL",
+      "title": "ESP32-P4NRW32_C22387510",
+      "sha256": "6c43b23807ef1edabd17e58f51d0784aacd6dcc42cfb450cdd5fd35765aaaaf4"
+    },
+    {
+      "uuid": "ebd70d7cd79aee10",
+      "kind": "SYMBOL",
+      "title": "Ground-GND",
+      "sha256": "e0b43e40614d1c96b92ae6af72b6953eb0aecfdb48dd61d5c02887c3c77da631"
+    },
+    {
+      "uuid": "f5259533b4cc2849",
+      "kind": "SYMBOL",
+      "title": "CL21A106KAYNNNE",
+      "sha256": "a3925569ea8c843af84a7c67397be5eebce0027d9cd27210283d5749d89ce390"
+    },
+    {
+      "uuid": "7b5b347e5c3760da",
+      "kind": "SYMBOL",
+      "title": "Sheet-Symbol_A4",
+      "sha256": "915da46a0ff6e6d861ba5651c29147953ef348f8650f5a8b2f115befe6ea48ab"
+    },
+    {
+      "uuid": "5642ca0d8f95f208",
+      "kind": "SYMBOL",
+      "title": "Ground-GND",
+      "sha256": "d058795b04000fc4dcc0264cd1d361db536b57c79804d743a8c2d3c5631a4f51"
+    },
+    {
+      "uuid": "734d0573d6f777a3",
+      "kind": "SYMBOL",
+      "title": "Drawing-Symbol_A4",
+      "sha256": "987e9a2644a530b4e83542f58b1fee1a5ba0144d237e4f63e076dd8cd13c1642"
+    },
+    {
+      "uuid": "24837aad28ba5661",
+      "kind": "SYMBOL",
+      "title": "Power-VCC",
+      "sha256": "8c61d71913cc4faffb64f525d6af8b9c66da04705a10c9e286e6e99ddd7866f8"
+    },
+    {
+      "uuid": "25a8876d54ca5cfa",
+      "kind": "SYMBOL",
+      "title": "5-Voltage",
+      "sha256": "b45ef9104864e7f8923e699aa599a1c36c193ed66baa6782040e7576110554f2"
+    },
+    {
+      "uuid": "9b628dd8f70b0465",
+      "kind": "SYMBOL",
+      "title": "Capacitance",
+      "sha256": "af0c463d74563d270e11e84322cdc2b71857520c91cf7862a12f6aebc1cc230e"
+    },
+    {
+      "uuid": "74208103be8100cc",
+      "kind": "SYMBOL",
+      "title": "CC0603KRX7R9BB104",
+      "sha256": "86cc113e83b154cad1aa2dfa6e8d370097f142831e4a2913c2c294a532fe772d"
+    },
+    {
+      "uuid": "85242e37684f4156",
+      "kind": "SYMBOL",
+      "title": "0603WAF1001T5E",
+      "sha256": "8c44076d0a929247338fb6ed3f0058ad2dcc5ddbd7157c4d5ccff9f47be175af"
+    },
+    {
+      "uuid": "7a095dc9bdcc81e2",
+      "kind": "SYMBOL",
+      "title": "EZAEG3A50AV",
+      "sha256": "a81a1f1bd3bd51ef10d0dfec8affa3f080d3f9e1a8f7b61dcf6a751095aca2fa"
+    },
+    {
+      "uuid": "14d374f8bbbdc646",
+      "kind": "SYMBOL",
+      "title": "Ground-GND",
+      "sha256": "e528476716cdb04dc6e7d71274a77f2972120028bf7ec5682999951a03a1f1a0"
+    },
+    {
+      "uuid": "e591bbfccda1a734",
+      "kind": "SYMBOL",
+      "title": "BLM18PG121SN1D_C14709",
+      "sha256": "dc8390eab6d2d6eb835bce455358af3016972fbc06902d4af29b8c2ae841ecef"
+    },
+    {
+      "uuid": "e759bd429f507585",
+      "kind": "SYMBOL",
+      "title": "Ground-GND",
+      "sha256": "72b7cdbdd99243f2adcda726743a87458585b4d1d93aa2c6ac88b36065e5f9c3"
+    },
+    {
+      "uuid": "07be0b96f3482236",
+      "kind": "SYMBOL",
+      "title": "RClamp0524PATCT",
+      "sha256": "b0487848dfeae99c9a4eb8271a6a479eb895fc5d8b5e3e3743cb89e2af88a91e"
+    },
+    {
+      "uuid": "0beee401130cd204",
+      "kind": "SYMBOL",
+      "title": "CL05B104KO5NNNC",
+      "sha256": "83e0c38780a8fd1070994d2e3e42d6d7acec4df2d2ea267ac23beedbc08418db"
+    },
+    {
+      "uuid": "f42ccfc128ac2ef2",
+      "kind": "SYMBOL",
+      "title": "0402WGF4701TCE",
+      "sha256": "2a66a0ffece61a70ff6db1395bf0d4298b88ae50ec36c11dc99d5cb026a65ab3"
+    },
+    {
+      "uuid": "8ff70bbc778b3213",
+      "kind": "SYMBOL",
+      "title": "0402WGF1001TCE",
+      "sha256": "b152b3230cf89ae139f6bf822a5d252a2b43cd4720602c59cf2761d0e4115af0"
+    },
+    {
+      "uuid": "e7aba187bc34cec9",
+      "kind": "SYMBOL",
+      "title": "MS2109",
+      "sha256": "9648d5df0bcf3689f9795f07356a56b296edcd73bc0f52e2eca1a889e60a3476"
+    },
+    {
+      "uuid": "0580fd57ddac7f13",
+      "kind": "SYMBOL",
+      "title": "FC-DA1608HRK-620D",
+      "sha256": "fc6093d51309a7bd05e793984f90f9fb41dc14062d23b31610bc6c41b0490157"
+    },
+    {
+      "uuid": "411ef694e9ff6545",
+      "kind": "SYMBOL",
+      "title": "0402WGF4702TCE",
+      "sha256": "e99914b780801b3c51f5797c25c17d463a85cfa9a66433d06758ab9af227e87b"
+    },
+    {
+      "uuid": "475198ff65eb0524",
+      "kind": "SYMBOL",
+      "title": "HDMI-001S",
+      "sha256": "1bbade144fb2d97624770364db636f4f42d32267a997621bc7861fcb34bb27df"
+    },
+    {
+      "uuid": "39e164b2d49b0c11",
+      "kind": "SYMBOL",
+      "title": "CL10A105KB8NNNC",
+      "sha256": "c44838628eb6f4274b897528e351d713d8724bdc65f52d10fab3b3e1c938a12a"
+    },
+    {
+      "uuid": "ae4acea030cb2634",
+      "kind": "SYMBOL",
+      "title": "BLM18PG121SN1D_C14709",
+      "sha256": "22890cce13590f34681797d2748ee09f4429af8fdd534cf8c9adb473523f8c58"
+    },
+    {
+      "uuid": "e066c85bd99261c0",
+      "kind": "SYMBOL",
+      "title": "TPD4E05U06DQAR_C138714",
+      "sha256": "dd94042153213bbbe735a9091a7c3a12c0b895404774b0426a40d16f77af538e"
+    },
+    {
+      "uuid": "1aad16db36f53647",
+      "kind": "SYMBOL",
+      "title": "0603WAF4701T5E",
+      "sha256": "c435477579636bc777c1d0b5a1c49adfd1c1b41ee690505df826ed654f17a673"
+    },
+    {
+      "uuid": "fe453d26486d7c6f",
+      "kind": "SYMBOL",
+      "title": "CL10C120JB8NNNC",
+      "sha256": "ca13a61e1c7b0477b9f8b3556c6b8d1e49e234a7f54290302c9c4f7e2aa3e2dd"
+    },
+    {
+      "uuid": "d06aae692db11cc6",
+      "kind": "SYMBOL",
+      "title": "0603WAF1003T5E",
+      "sha256": "e65a4ab5f8966d1b5bcd3ead33b422ecb42e440f38f87847cb2cab9297dab11e"
+    },
+    {
+      "uuid": "a54a75cbf08f4c09",
+      "kind": "SYMBOL",
+      "title": "CL10C220JB8NNNC",
+      "sha256": "d3e4985cfbadd6b7a912750d4b12268a59426e722d3826cb4332e49e8e16e1d8"
+    },
+    {
+      "uuid": "bc700ce6e331b021",
+      "kind": "SYMBOL",
+      "title": "0603WAF2201T5E",
+      "sha256": "a07e20efe09fcc3aad603e192a25afece65ab953c99b5f2cde1d89b906f58256"
+    },
+    {
+      "uuid": "b92bfec87dfb6c5c",
+      "kind": "SYMBOL",
+      "title": "电阻",
+      "sha256": "4df2bafbe04f8cc3ff7e82197271e9f3cd3d42993397366ff40af0a01c36ced0"
+    },
+    {
+      "uuid": "2a41095027cc1066",
+      "kind": "SYMBOL",
+      "title": "0603WAF1002T5E",
+      "sha256": "5926d2a6fd4172900ce90fa553f7ed6f2c703130ad400469c2edb5eaf3927990"
+    },
+    {
+      "uuid": "22c259beb00d80da",
+      "kind": "SYMBOL",
+      "title": "Netport-IN",
+      "sha256": "2dc8199c85e10b4f2d4a8478a6f4d19a508c9f769e9e72912f0a6ec7b0d19cd6"
+    },
+    {
+      "uuid": "6d1f00dce789a3aa",
+      "kind": "SYMBOL",
+      "title": "FNR3015S2R2MT",
+      "sha256": "00f51d715121b8d0d687736260fc34f1b5a4498cc6e3387a6b4414310eb4cac4"
+    },
+    {
+      "uuid": "4059c8a9384763a0",
+      "kind": "SYMBOL",
+      "title": "Power-5V",
+      "sha256": "3a1ab5b2eabc8e8d2e4251f8e70ac346654046d1526f6c3640eb7241afc9359f"
+    },
+    {
+      "uuid": "9c0a9a0c2d5c709a",
+      "kind": "SYMBOL",
+      "title": "HR911105A_C12074",
+      "sha256": "744a7bc00c3a5df9f61727d08a2b0158f01c36efe77004639c7a53d2aedd832f"
+    },
+    {
+      "uuid": "7b9628b7d31b38e5",
+      "kind": "SYMBOL",
+      "title": "X322525MOB4SI",
+      "sha256": "94988d53fc5a8e3f95e0de53337b148d844bfd790e425c3c204c3cae49585609"
+    },
+    {
+      "uuid": "6aaa11fbb6f9f21e",
+      "kind": "SYMBOL",
+      "title": "Ground-GND",
+      "sha256": "4471c8dcc9d7b1fb63e4e789756c905d5bda5bce0311876b9632f9072977e626"
+    },
+    {
+      "uuid": "f87b66bf0fe471ef",
+      "kind": "SYMBOL",
+      "title": "Power-VCC",
+      "sha256": "10f5e95bdf39a6816a18d330eadc7759b7736c60a52be8b7f8bad2e00b65e51e"
+    },
+    {
+      "uuid": "d5f32ce6b70ad631",
+      "kind": "SYMBOL",
+      "title": "X322540MPB4SI",
+      "sha256": "4980ae3a8b9a650affb524139425811c6b009e6f0a65991dcf9888983d9a1f51"
+    },
+    {
+      "uuid": "df9ed562ec90fba7",
+      "kind": "SYMBOL",
+      "title": "Short-Symbol",
+      "sha256": "b02b8c7845d9577f84d386a2c54ac1b655c44aac7f541a5a9ab59d0c1dbed34f"
+    },
+    {
+      "uuid": "6505d2624490d859",
+      "kind": "SYMBOL",
+      "title": "电阻",
+      "sha256": "bbdeed7b8f766720df3298a7e7aae104da295eff02ca293931b359d6b62aedd2"
+    },
+    {
+      "uuid": "5be3ad4e328e15f0",
+      "kind": "SYMBOL",
+      "title": "Capacitance",
+      "sha256": "e1165e2e87d878116886c03899ca09cfa3684fb5995f2c9dcbacde22f1377b2c"
+    },
+    {
+      "uuid": "9ac7472ef246137a",
+      "kind": "SYMBOL",
+      "title": "Drawing-Symbol_A4",
+      "sha256": "93d351a03b6c1877201367e4b89dcff7665208c96d2ab69896bcd703ebfb054a"
+    },
+    {
+      "uuid": "9d6d62d1bdd35fda",
+      "kind": "SYMBOL",
+      "title": "AQS221R2S",
+      "sha256": "6464e54aeca1d38eecb8c23d797c58965e57734a00fdd8d33f3b33ee2b04797a"
+    },
+    {
+      "uuid": "f0bdcb7cd4b4d626",
+      "kind": "SYMBOL",
+      "title": "GL0603UR01",
+      "sha256": "cf2d8eebb99dbf491c5145e0cf84a865b7f5a38548a31265f82c39fb1c0f991f"
+    },
+    {
+      "uuid": "ff4ac4697be49936",
+      "kind": "SYMBOL",
+      "title": "CL10B104KB8NNNC",
+      "sha256": "08641a28d58916fc313dfd8e1c8c09e8021315417596eee27b0049b26a674b29"
+    },
+    {
+      "uuid": "451ab557cc07e1db",
+      "kind": "SYMBOL",
+      "title": "CH343P",
+      "sha256": "dc583033d602143150b3211d5e2ce2ade01da5d4347b20eae364e96fcf7db6ff"
+    },
+    {
+      "uuid": "0ab0464365f9af76",
+      "kind": "SYMBOL",
+      "title": "EMH4T2R",
+      "sha256": "7bb2718bcaf0e7789d895f24d95c69df5357dda085fe664fd97c07c59a9d6c30"
+    },
+    {
+      "uuid": "30988e5b1b78d1ec",
+      "kind": "SYMBOL",
+      "title": "TLV62569DBVR",
+      "sha256": "ca2db2fc63f861506b2610a520df742b410b228a13b7af534751467d4220a5f4"
+    },
+    {
+      "uuid": "307e50f308f1837b",
+      "kind": "SYMBOL",
+      "title": "PCIe*1",
+      "sha256": "593076869baf2add4feab7c84595b841143b8066cc4b773e12b693a58fd0056a"
+    },
+    {
+      "uuid": "27d8d3a723fef731",
+      "kind": "DEVICE",
+      "title": "ZX-SH1.0-3PLT",
+      "sha256": "5055d0ba9e9b3bfef3f1fb4167b56c9a5f3baa0982c7129cccd2379999e65d81"
+    },
+    {
+      "uuid": "fad25e24455f79b4",
+      "kind": "DEVICE",
+      "title": "CGA0805X5R226M250MT",
+      "sha256": "0c6eb815d33c5c983258b4587737c17e7a18fcd3c440bbc705315f0598708cc4"
+    },
+    {
+      "uuid": "1ac2d2da4ae49177",
+      "kind": "DEVICE",
+      "title": "HX TYPE-C 16P L8.35",
+      "sha256": "c285c14c2774e03dd67378dc8ae057b819da4a6849cc6e75df005e9db3a39cce"
+    },
+    {
+      "uuid": "a0826849c63d4483",
+      "kind": "DEVICE",
+      "title": "AT24C16C-STUM-T",
+      "sha256": "ac85bc9499a2a947f0cd8c38f385b54beecfa2fa9fdd7346bb975878c271732a"
+    },
+    {
+      "uuid": "8fa0a4f97add9474",
+      "kind": "DEVICE",
+      "title": "GD5F2GQ5UEYIGR",
+      "sha256": "23f4c0b5c814ae0274abdaf48ec00a2143a434193bbd6afd24ae2ffa0ff9836b"
+    },
+    {
+      "uuid": "5c9d0adb3eab93c9",
+      "kind": "DEVICE",
+      "title": "SLPESD0603M05",
+      "sha256": "0ac52853f5a33ac92e273214d296e8ab5883a74b267d0cc96d1904902babcfa5"
+    },
+    {
+      "uuid": "9117a28b46ff38eb",
+      "kind": "DEVICE",
+      "title": "CGA0603X5R106M160JT",
+      "sha256": "888093e24e48f5992c66e585ab304d23344a887a9a86b1aecf35f645ca8197c6"
+    },
+    {
+      "uuid": "3c3cf1c7cac3138e",
+      "kind": "DEVICE",
+      "title": "XKTF-1307-18",
+      "sha256": "1f61559aeff988b0a589c39fab70dc5f5ea4e50b2fed2d275a67d36f4992a985"
+    },
+    {
+      "uuid": "7195313019373cbb",
+      "kind": "DEVICE",
+      "title": "RT0603BRE072K49L",
+      "sha256": "cd315ea611e964b5baec72924946dd45df7b9e3d828d2b6272c056215c33beca"
+    },
+    {
+      "uuid": "14c902a96073b442",
+      "kind": "DEVICE",
+      "title": "FRC0603F6491TS",
+      "sha256": "34bdf83dabc4769b0d66ab58a5bb26bf6ba0540c3b3f13af649854eba0b89c8b"
+    },
+    {
+      "uuid": "b57e6fab6114366a",
+      "kind": "DEVICE",
+      "title": "CL10C180JB8NNNC",
+      "sha256": "780547d019eb2676593012e2b90089bad73bcb0a3aebba357664a20ace1d2c71"
+    },
+    {
+      "uuid": "94482266ecfbd20d",
+      "kind": "DEVICE",
+      "title": "X6521WR-2x11H-C60D30",
+      "sha256": "ba5fdb64b6178dbfa17e4b019e3b5926fdc94567653d8e6df67fd688af423307"
+    },
+    {
+      "uuid": "8814dcbf87fa80ff",
+      "kind": "DEVICE",
+      "title": "FRC0402F1002TS",
+      "sha256": "6a64c5ec405aaacb584101da2216fef8403315f724571db50f803eb356f6b50a"
+    },
+    {
+      "uuid": "b084fac7d5f76d4a",
+      "kind": "DEVICE",
+      "title": "DP83825IRMQR",
+      "sha256": "800cdfcf7af0d7f9c67e36d442cfbf87f50a1296347d2f8814e461ba6e8c1620"
+    },
+    {
+      "uuid": "71fd5a924b831340",
+      "kind": "DEVICE",
+      "title": "GD25Q128EWIGR",
+      "sha256": "4a11f2d3bf771b339e149eefa64deb8069222b20f9ca193c3f65f7b56f0ddbad"
+    },
+    {
+      "uuid": "8ba6ffd085e1ffca",
+      "kind": "DEVICE",
+      "title": "FRC0402J512 TS",
+      "sha256": "e564ea3ad61cf0c9c74e2105c5a9882635d66506501593d5400fd679306439e2"
+    },
+    {
+      "uuid": "358c4c56ea3c941a",
+      "kind": "DEVICE",
+      "title": "0402CG120J500NT",
+      "sha256": "56217d23d380f1a3d9b9113fb7317e04325e1a2f9f48e16749325a8f3cc4255f"
+    },
+    {
+      "uuid": "399f8c59a2519a53",
+      "kind": "DEVICE",
+      "title": "RC0402FR-074K7L",
+      "sha256": "0644eb84c98e8fb6bc259a4af1965076f1685644183c01fc602907bbb36251e8"
+    },
+    {
+      "uuid": "a0850d10ea8dfaa6",
+      "kind": "DEVICE",
+      "title": "FRC0402F5100TS",
+      "sha256": "7f7475c7ab048befde58cbcd04d1ce16f43572da4ee310157b4e4a2e2874fd5e"
+    },
+    {
+      "uuid": "598a869f1c1b83d0",
+      "kind": "DEVICE",
+      "title": "0402WGF220JTCE",
+      "sha256": "4961924aed5eb5faeb6006de30c37d3b742703dc7d240389b5509aafc4b14f38"
+    },
+    {
+      "uuid": "82ca37a829a0d3ee",
+      "kind": "DEVICE",
+      "title": "RMC04024.02K1%N",
+      "sha256": "bae58ebd1226842df440868febaa26bfa01415ba610a49b39578d15604910c26"
+    },
+    {
+      "uuid": "2e62f1f416721cc6",
+      "kind": "DEVICE",
+      "title": "FRC0603F4533TS",
+      "sha256": "d9dab5bdc73ee56fa9205c660eac4da78403bcf23e9a8a69ef702f3d39e9184f"
+    },
+    {
+      "uuid": "252fc0e74546f21c",
+      "kind": "DEVICE",
+      "title": "0402WGF2201TCE",
+      "sha256": "7b2f5e1c0a1b73b1c8b35f07e6b6052d0c2aed6cf64166eb236c7793ac291423"
+    },
+    {
+      "uuid": "2df901147853613f",
+      "kind": "DEVICE",
+      "title": "FRC0603F4993TS",
+      "sha256": "3815d80c2e03b71dabde083881d111959784b22c7eb2471f11d88c10a79be192"
+    },
+    {
+      "uuid": "9a8a19768c101d22",
+      "kind": "DEVICE",
+      "title": "HGC0402R5106M100NTEJ",
+      "sha256": "c966466ecdf21f63f420242bda2e3fd0988d67809956863c7967f728cde52463"
+    },
+    {
+      "uuid": "bab7ae619fdf2103",
+      "kind": "DEVICE",
+      "title": "CL10A106MA8NRNC",
+      "sha256": "f4fd7b24ec05f7ab72c6062f44f9d887d2100c25e33c90014b2fbb77300ace3e"
+    },
+    {
+      "uuid": "1bd141b2dbe8107f",
+      "kind": "DEVICE",
+      "title": "CC0603JRNPO9BN121",
+      "sha256": "692f1e5414385eda142741be9c8205edf058d1ee9af97bead866f9e33c3f5c74"
+    },
+    {
+      "uuid": "f9a20c40ecd53919",
+      "kind": "DEVICE",
+      "title": "CL05B104KO5NNNC",
+      "sha256": "553199b22ac2f2d6e2e59dde4158c3b3b88b669a0a2d0347ffb6b756ea9a4ece"
+    },
+    {
+      "uuid": "30cc308dee231e3c",
+      "kind": "DEVICE",
+      "title": "CL10C200JB8NNNC",
+      "sha256": "fcfa5d0738ed90e95a16c411e8dab5ec8de6582176e49a08abbc75e6cd39780d"
+    },
+    {
+      "uuid": "8eea39debd6a11bc",
+      "kind": "DEVICE",
+      "title": "0402WGF1002TCE",
+      "sha256": "b67f38d70b638cdcca1931b81517395ff0225abd93f09f0869a229c5fca60324"
+    },
+    {
+      "uuid": "8711f12592472d31",
+      "kind": "DEVICE",
+      "title": "CL05A105KA5NQNC",
+      "sha256": "2c465f0faa7c647ae5522486a3a8e9f9eae745427bf10a0ace5055a156f27ede"
+    },
+    {
+      "uuid": "5d90828f6be794a4",
+      "kind": "DEVICE",
+      "title": "WPN252012H1R0MT",
+      "sha256": "1de9205e985c72d52bbfd2e0a895b17f21df582829f459184b66f91d85f38679"
+    },
+    {
+      "uuid": "7dcc42ab494aadec",
+      "kind": "DEVICE",
+      "title": "CL21A226MAQNNNE",
+      "sha256": "d7c09dd7eca064b2c27472750385bec2f195de7401480fce53010ed072c9c77e"
+    },
+    {
+      "uuid": "c3b363aa32b3d217",
+      "kind": "DEVICE",
+      "title": "ESP32-P4NRW32_C22387510",
+      "sha256": "1a4986603aba5c049632e45ab549b364e4f016592a60de8172be4b72fd753eb8"
+    },
+    {
+      "uuid": "b55cf49716e5974d",
+      "kind": "DEVICE",
+      "title": "Ground-GND",
+      "sha256": "bdbc7c25a02dfbf4b702416b4559ea4557190ff0f93898dd8b51c20e66f59757"
+    },
+    {
+      "uuid": "6537c795c6bf5748",
+      "kind": "DEVICE",
+      "title": "CL21A106KAYNNNE_C15850",
+      "sha256": "1fd6add8ac1c0bc5dec261a9d0f5bc831b9bf0843c45cd4a1e3fca6b0c66fae1"
+    },
+    {
+      "uuid": "fce49eb1e0d8b317",
+      "kind": "DEVICE",
+      "title": "Sheet-Symbol_A4",
+      "sha256": "c8cc7f1b48ac4c9f901f6ef8a23b2c006e2dffed657ae67b5eaa507a1ead951a"
+    },
+    {
+      "uuid": "a53b81fc23fb89ce",
+      "kind": "DEVICE",
+      "title": "Short-Symbol",
+      "sha256": "5193aca601dbefb13be1ae98f5e4bb61518d634b3ae52204dbe0caa86f9ca79a"
+    },
+    {
+      "uuid": "69869ca629750adf",
+      "kind": "DEVICE",
+      "title": "Ground-GND",
+      "sha256": "8438d69c8a01ab31e0a5c7e2f37f5d85ccadc50bb468df39bb4a065b1ce6dd16"
+    },
+    {
+      "uuid": "4b2cdd5378636738",
+      "kind": "DEVICE",
+      "title": "Drawing-Symbol_A4",
+      "sha256": "5f549419eb054b0e4fe5a9778156f90221e3e7a7a29ac7c4d86ec125e8085505"
+    },
+    {
+      "uuid": "fff0f6c67ffcb05c",
+      "kind": "DEVICE",
+      "title": "Power-VCC",
+      "sha256": "0d03c5d52641ecaca01233c9c8120908fa88f03913b952f9622b1393b9200952"
+    },
+    {
+      "uuid": "f7c160d92d9e070c",
+      "kind": "DEVICE",
+      "title": "Power-5V",
+      "sha256": "f62b96362156f4e01cdb254d99e3e081357fbdcf4785c3fe2ee7ac33d8802ff0"
+    },
+    {
+      "uuid": "2be3abb27c3c8063",
+      "kind": "DEVICE",
+      "title": "CC0603KRX7R9BB104",
+      "sha256": "76625928f3400ca7e2d32f4555f3842828038ab9f53c44f1a3a7a4e3521178d1"
+    },
+    {
+      "uuid": "1ce89c9e7ae8d919",
+      "kind": "DEVICE",
+      "title": "CL10A105KB8NNNC",
+      "sha256": "65e213041356ce65f92a1f1a71179b604e2b1550055152c2145b58b5ccd3a2ea"
+    },
+    {
+      "uuid": "78979ca79d79e8ae",
+      "kind": "DEVICE",
+      "title": "0603WAF1001T5E",
+      "sha256": "d403f60c4fa6e5da3dcd6f36d8f895c3c6d9bbae52c1bc0907357cf84721cc5c"
+    },
+    {
+      "uuid": "e1c236ee71254840",
+      "kind": "DEVICE",
+      "title": "EZAEG3A50AV",
+      "sha256": "a1b61f43d47cba510dbf0e77a1408da6d6416d25f81890edec561051218e385b"
+    },
+    {
+      "uuid": "430b6d52b8d38e66",
+      "kind": "DEVICE",
+      "title": "Ground-GND",
+      "sha256": "bafb6e3f113e892459eefa65c25816973ec88fe914b54f79d71e058d0107078a"
+    },
+    {
+      "uuid": "11b1f24bbb16b1fa",
+      "kind": "DEVICE",
+      "title": "BLM18PG121SN1D",
+      "sha256": "55e3ae3e3aa61d2862841eb794e593a6212edf9fdf1a1d0342071fcceb1d266a"
+    },
+    {
+      "uuid": "c097bc11b04a190c",
+      "kind": "DEVICE",
+      "title": "Ground-GND",
+      "sha256": "6cd8cbed894922cc5011680428ba0e28b8c218db28217108431d487218d3b0b8"
+    },
+    {
+      "uuid": "ac43ef3ccbe34edd",
+      "kind": "DEVICE",
+      "title": "TPD4E05U06DQAR_C138714",
+      "sha256": "3fe021fa231886021ddae3625f4b312c3f125efa45b5cc59d925c8c7fc68533e"
+    },
+    {
+      "uuid": "169f073598e1ac6e",
+      "kind": "DEVICE",
+      "title": "0603WAF4701T5E",
+      "sha256": "1182ab1598a18b4bc66da85543cfda936d996574f000cbfc14dd1b4e17d3cf00"
+    },
+    {
+      "uuid": "7ed3b9275ae9175e",
+      "kind": "DEVICE",
+      "title": "MS2109",
+      "sha256": "efd28b106b5f965de33cefca3ed97d1b250d072a1fac40acfd5cc8e4984e3460"
+    },
+    {
+      "uuid": "3059064b82cd120b",
+      "kind": "DEVICE",
+      "title": "NCD0603R1_C84263",
+      "sha256": "96d9e89cdc2b3b16fb474801fc06d27e35c5e4a21d71dfd6fb441601a4d27124"
+    },
+    {
+      "uuid": "8c72f07cc9026b9c",
+      "kind": "DEVICE",
+      "title": "0603WAF1003T5E",
+      "sha256": "48662bdef559812e0520d3dd7216baac3005747e912a00b0665d9dff506c00eb"
+    },
+    {
+      "uuid": "4b7c0a1dfb96e59f",
+      "kind": "DEVICE",
+      "title": "CL10C220JB8NNNC",
+      "sha256": "f5dab99befbc670754583ac9709f4c64ff63e6c6cd523b2e2108d82bf5902678"
+    },
+    {
+      "uuid": "3e35e8708ed8bebc",
+      "kind": "DEVICE",
+      "title": "HDMI-001S",
+      "sha256": "cbf44cc25e093526bb948f1d47ee0a47f73314eddd8610c1ffcc8eb616f22f20"
+    },
+    {
+      "uuid": "7db8c16755a5777f",
+      "kind": "DEVICE",
+      "title": "0603WAF2201T5E",
+      "sha256": "4d193a1cf8defb21b18a46c9c7785edb228ecd8dfc229aa02fbed269b0a08b39"
+    },
+    {
+      "uuid": "f96891f117e9e75a",
+      "kind": "DEVICE",
+      "title": "0603WAF1002T5E",
+      "sha256": "8f2272b4c904fd11511dd294a026ec259a5ee9f1ccccca6d18d7dfe2d370616b"
+    },
+    {
+      "uuid": "d527f5daaab0401b",
+      "kind": "DEVICE",
+      "title": "Netport-IN",
+      "sha256": "dbf42c31474e3c569bc467a003c6e725621e76675af99ded67ec540e6540fc78"
+    },
+    {
+      "uuid": "a31fb7e0c7248978",
+      "kind": "DEVICE",
+      "title": "FNR3015S2R2MT",
+      "sha256": "ac4dcc1b79a9aee1dacd9e83142a94e34de34e49869155fa676cc3a69282a1ba"
+    },
+    {
+      "uuid": "b7a9eba1f4ba6cdc",
+      "kind": "DEVICE",
+      "title": "Power-5V",
+      "sha256": "6067140f02f06aafd30e5fb53508e1e9d1ef558a9384e7dc3c4d31ab2e70b483"
+    },
+    {
+      "uuid": "3af5f0d487bfa795",
+      "kind": "DEVICE",
+      "title": "HR911105A_C12074",
+      "sha256": "373eb9dea99645233635d52a78541e4c3eebe1b28e294f0f9a122a5ecccb1a41"
+    },
+    {
+      "uuid": "683ec61d98736e4c",
+      "kind": "DEVICE",
+      "title": "X322525MOB4SI",
+      "sha256": "f52511c9387e4ebb0134bca141a31e60c55fe47cecee731edb058c5a859e2dbc"
+    },
+    {
+      "uuid": "ba29737b553094c2",
+      "kind": "DEVICE",
+      "title": "Ground-GND",
+      "sha256": "a00d698b4fb7d44b203c07b3e1042649f797dfc932f1506fded6e73a60b5e9b3"
+    },
+    {
+      "uuid": "af7d154c78b2b413",
+      "kind": "DEVICE",
+      "title": "X322540MPB4SI",
+      "sha256": "e40f7fb9500c1d93928ba9dd7585e06f3625e056efd649af326bdbcbb8bb462a"
+    },
+    {
+      "uuid": "cdc133dc362a16bb",
+      "kind": "DEVICE",
+      "title": "Power-VCC",
+      "sha256": "dba117912f4c9006913f710207c38b9d3fc23865ccdafddb16ad61d6262dfa44"
+    },
+    {
+      "uuid": "e87b213f7eddc292",
+      "kind": "DEVICE",
+      "title": "Res_0603",
+      "sha256": "9f4b998000b7480a6a28cfb2360fe253dbaf34188c9644ddd242ec78d4df4936"
+    },
+    {
+      "uuid": "3c47cb8e9be44fa2",
+      "kind": "DEVICE",
+      "title": "Drawing-Symbol_A4",
+      "sha256": "1cc2e186d4a8addd056153b9b02d498caa68d4f46aab61a284ddd24eb64f36a2"
+    },
+    {
+      "uuid": "172f2ea309ecafde",
+      "kind": "DEVICE",
+      "title": "AQS221R2S",
+      "sha256": "aa85b9dbf331163b4d674489ba3eb9c44d9bf32fb8bb01b51ae3bbb2c9513b6c"
+    },
+    {
+      "uuid": "eac6db75b28e06e8",
+      "kind": "DEVICE",
+      "title": "GL0603UR01",
+      "sha256": "7820fe97dd55957992af0587409e6dedfa4ac2e0700dbb7e884dd737607990ec"
+    },
+    {
+      "uuid": "be54dd7ca7cc8590",
+      "kind": "DEVICE",
+      "title": "CL10B104KB8NNNC",
+      "sha256": "db41304a402574fc9ec9666fc7d4299f8473515626991759a174e73ae20f0533"
+    },
+    {
+      "uuid": "f38e871ee3477724",
+      "kind": "DEVICE",
+      "title": "FRC0603F2201TS",
+      "sha256": "e5a3f3dff9566081889eb95c9846d7203e9b67f6636d03412c986a1e1aab4a4e"
+    },
+    {
+      "uuid": "1029379c444e2c79",
+      "kind": "DEVICE",
+      "title": "FRC0603J471 TS",
+      "sha256": "1d8ba9db50a6fb16f8a77dd2aec26eabb18c6b8d40c6e6fbadc47c937e7d7e42"
+    },
+    {
+      "uuid": "87f565c31af87d51",
+      "kind": "DEVICE",
+      "title": "CH343P",
+      "sha256": "b26a012582718e73f34ff5fd8467cdaf9e5ee7dcfa9c5639e25d5f223ef897c2"
+    },
+    {
+      "uuid": "66ac4b540c205a2e",
+      "kind": "DEVICE",
+      "title": "EMH4T2R",
+      "sha256": "1c3a7c9b0ac546cc3696c80e3fcf425730dde3e311f0cf539d80e20b0cc31ed3"
+    },
+    {
+      "uuid": "58de0d875f3fc9f7",
+      "kind": "DEVICE",
+      "title": "TLV62569DBVR",
+      "sha256": "1f915cd7404c21c71d33c6b9ce64358376d2468e5d1f6ac380a30fcff9a78d36"
+    },
+    {
+      "uuid": "f54802d9dfadb817",
+      "kind": "DEVICE",
+      "title": "X322524MOB4SI",
+      "sha256": "2962782ee1e04102a16bb455309aad0e7865231f6012dc029e92f18ccd461fab"
+    },
+    {
+      "uuid": "062820da088e5e80",
+      "kind": "DEVICE",
+      "title": "PCIe*1",
+      "sha256": "81d8a150f6dad9bd60991649dd1aba4c1151c12d2efeb8951ffef31ceb121413"
+    },
+    {
+      "uuid": "8e5cb2ceb957c695",
+      "kind": "BOARD",
+      "title": "ESP32P4_Prototype_V2.3b4layers_260724封存（已验证）",
+      "sha256": "baad68847266fc8082ae9aa0eb050fd914e40135d9299c9fb51822af5055111e"
+    },
+    {
+      "uuid": "16e5e15b4f9b57dd",
+      "kind": "SCH",
+      "title": "SCH_ESP32P4_Prototype_V2.3b6_1",
+      "sha256": "f6617a11070ae9f7a991de5266fb4b8edd84b7e9ffc156dce987ad9ea82f8de0"
+    },
+    {
+      "uuid": "93280e869128f700",
+      "kind": "SCH_PAGE",
+      "title": "Power",
+      "sha256": "d90ed5ac62447441c1b74244a69dd486a756ca003cfa832c2de25e1d99fd996e"
+    },
+    {
+      "uuid": "6e226c2e2a8df0f0",
+      "kind": "SCH_PAGE",
+      "title": "HDMI_Captrue_MS2109",
+      "sha256": "43afa70600f586be5a8998bb2f3a40c35109a69f1ea73f241fab797e86c4533d"
+    },
+    {
+      "uuid": "957a895d6c5b1385",
+      "kind": "SCH_PAGE",
+      "title": "USB_UART/Other IO",
+      "sha256": "9d90c63462383d8f06cb7bec43363acf222e62a708f988d856d3d32bf5b67926"
+    },
+    {
+      "uuid": "7f1a330cb46dc443",
+      "kind": "SCH_PAGE",
+      "title": "ETH",
+      "sha256": "6f8e356143fc7344e884a14d952f6ee6b274a686fc83731fa67241cd2701628d"
+    },
+    {
+      "uuid": "1f6e615b7e58ded5",
+      "kind": "SCH_PAGE",
+      "title": "P1",
+      "sha256": "0d6e619d3554907881931d3af8aede65fd612cf86a7f92e5353f11d54fe8de74"
+    },
+    {
+      "uuid": "97ae89ab5d3131d6",
+      "kind": "SCH_PAGE",
+      "title": "P4",
+      "sha256": "aa2d9ad6fadec979c30f1bf7baf5a4d67d8d45a80dce9f4befe8e6d2ae84ca5c"
+    },
+    {
+      "uuid": "0984723be505a641",
+      "kind": "SCH_PAGE",
+      "title": "PCIe",
+      "sha256": "bd4d5c76dbac684f0d428f6de9c2c497f06557407faead775384e8ebdbfcfd06"
+    },
+    {
+      "uuid": "2290b75cf8f53218",
+      "kind": "SCH_PAGE",
+      "title": "TF",
+      "sha256": "ab7336699cac829de20d4e6af93b0d2ace0cc2a2ca031aae947a9770211d4d05"
+    },
+    {
+      "uuid": "83b73b92525e5039",
+      "kind": "PCB",
+      "title": "ESP32P4_Prototype_V2.3b4layers",
+      "sha256": "ef6f8677c27a122b8f4418698647ae22fe2ec64228d680ee7e5a3cfea23c95c8"
+    },
+    {
+      "uuid": "CONFIG",
+      "kind": "CONFIG",
+      "title": "",
+      "sha256": "f1227a89f12c948b3ee23b367c951fc6882f60d70e9bd1afcecdbf400c8052c9"
+    },
+    {
+      "uuid": "FONT",
+      "kind": "FONT",
+      "title": "",
+      "sha256": "0ef887224e2daa63e8bfbd91b402519de30ca451c17badd761af637a2d904bd1"
+    },
+    {
+      "uuid": "BLOB",
+      "kind": "BLOB",
+      "title": "",
+      "sha256": "6cf347416be4ca3da9ddbc0896428391806388e7cac17f99c0da05468fbaedaf"
+    }
+  ],
+  "deleted_sheets_excluded": [],
+  "config_change": "defaultSheet points to extracted PCB",
+  "source_design_documents_byte_identical": true,
+  "retained_assets": 9,
+  "unused_thumbnails_removed": 190,
+  "archive_sha256": "5e8f51f7e4cee2d5a85ffed7fa6631375610ee6885c98d26f25353acf155a078"
+}

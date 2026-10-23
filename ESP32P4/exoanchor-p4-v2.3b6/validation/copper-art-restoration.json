@@ -1,0 +1,14 @@
+[
+  {
+    "source_pad": "e1025",
+    "layer": "B.Cu",
+    "polygon_vertices": 451,
+    "source_shape_preserved_with_arc_sampling_max_step_degrees": 2
+  },
+  {
+    "source_pad": "e1577",
+    "layer": "F.Cu",
+    "polygon_vertices": 451,
+    "source_shape_preserved_with_arc_sampling_max_step_degrees": 2
+  }
+]

@@ -9,6 +9,8 @@
 | 路径 | 定位 |
 | --- | --- |
 | [`ESP32P4/exoanchor-p4-v2.4a6/`](ESP32P4/exoanchor-p4-v2.4a6/) | JLCEDA 与 KiCad 独立工程；转换已核对，制造签核待完成 |
+| [`ESP32P4/exoanchor-p4-v2.3b4/`](ESP32P4/exoanchor-p4-v2.3b4/) | 四层 V2.3B4 的 JLCEDA 与 KiCad 独立工程；历史版本，转换已核对 |
+| [`ESP32P4/exoanchor-p4-v2.3b6/`](ESP32P4/exoanchor-p4-v2.3b6/) | 六层 V2.3B6 的 JLCEDA 与 KiCad 独立工程；历史版本，转换已核对 |
 | [`ESP32P4/simple-diy/`](ESP32P4/simple-diy/) | Waveshare 简易 DIY 方案与扩展板 |
 | [`ESP32P4/archive/`](ESP32P4/archive/) | 不再参与新设计的历史资料 |
 | `assets/brand/` | PCB 丝印用品牌图形 |

@@ -1,0 +1,20 @@
+{
+  "source_record_id": "e0f48826f0fc4c92",
+  "source_record": {
+    "partitionId": "",
+    "groupId": 0,
+    "netName": "P4_VDDO1_FLASH",
+    "layerId": 1,
+    "startX": 4599.8525,
+    "startY": -3228.006,
+    "endX": 4599.8525,
+    "endY": -3228.0716,
+    "width": 5,
+    "locked": false,
+    "zIndex": -1
+  },
+  "restored_in": "KiCad/ExoAnchor_P4_V2.3B4.kicad_pcb",
+  "length_mm": 0.001666240000009111,
+  "reason": "Native V3 contains this nonzero segment; V2 compatibility export omitted it. Restored from native coordinates and net. Four zero-length native line records remain excluded.",
+  "straight_segments_after_restoration": 1902
+}

@@ -1,0 +1,38 @@
+{
+  "drc_violations": 1504,
+  "drc_severities": {
+    "error": 1312,
+    "warning": 192
+  },
+  "drc_types": {
+    "annular_width": 175,
+    "items_not_allowed": 83,
+    "clearance": 504,
+    "hole_clearance": 42,
+    "courtyards_overlap": 48,
+    "copper_edge_clearance": 39,
+    "drill_out_of_range": 1,
+    "track_width": 199,
+    "starved_thermal": 46,
+    "via_diameter": 175,
+    "track_dangling": 2,
+    "silk_edge_clearance": 37,
+    "lib_footprint_mismatch": 6,
+    "silk_overlap": 110,
+    "silk_over_copper": 37
+  },
+  "unconnected_items": 0,
+  "erc_violations": 777,
+  "erc_types": {
+    "pin_not_driven": 54,
+    "power_pin_not_driven": 15,
+    "pin_not_connected": 17,
+    "lib_symbol_mismatch": 128,
+    "unconnected_wire_endpoint": 128,
+    "isolated_pin_label": 13,
+    "pin_to_pin": 406,
+    "multiple_net_names": 4,
+    "endpoint_off_grid": 12
+  },
+  "rules_scope": "KiCad default/imported rules; original JLC rules not exhaustively mapped. No manufacturing signoff."
+}

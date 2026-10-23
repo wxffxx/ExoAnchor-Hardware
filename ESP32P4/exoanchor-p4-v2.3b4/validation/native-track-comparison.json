@@ -1,0 +1,15 @@
+{
+  "comparison_scope": "Native V3 vs V2 straight tracks: net, layer, width and endpoints rounded to 0.001 mil",
+  "native_nonzero_lines": 1902,
+  "v2_lines": 1901,
+  "native_zero_length_lines_omitted": 4,
+  "nonzero_native_lines_missing_in_v2": [
+    "e0f48826f0fc4c92"
+  ],
+  "v2_extra_or_mismatched_lines": 0,
+  "missing_nonzero_lines_restored_in_kicad": [
+    "e0f48826f0fc4c92"
+  ],
+  "restoration_report": "native-track-restoration.json",
+  "pass": true
+}

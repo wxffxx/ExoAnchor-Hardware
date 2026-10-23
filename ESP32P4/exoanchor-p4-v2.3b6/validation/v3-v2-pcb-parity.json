@@ -1,0 +1,22 @@
+{
+  "native_components": 185,
+  "component_reference_sets_equal": true,
+  "pad_checks": 753,
+  "pad_net_mismatches": [],
+  "component_position_mismatches": [],
+  "native_copper_layers": 6,
+  "kicad_copper_layers": 6,
+  "native_layer_names": [
+    "Top Layer",
+    "Bottom Layer",
+    "GND",
+    "VCC",
+    "VCC1",
+    "GND1"
+  ],
+  "native_line_records": 1845,
+  "zero_length_native_lines": 4,
+  "submicron_native_lines": 0,
+  "v2_lines": 1841,
+  "pass": true
+}
