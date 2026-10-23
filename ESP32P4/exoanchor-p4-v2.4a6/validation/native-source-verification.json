@@ -1,0 +1,9 @@
+{
+  "archive_crc_ok": true,
+  "document_count": 194,
+  "source_document_count": 194,
+  "byte_identical_design_and_library_documents": 193,
+  "design_document_mismatches": [],
+  "config_change": "Default sheet points to the extracted PCB",
+  "archive_sha256": "1e0825601a055c5b63d7fe54696e0fcc0450d010960a6444f67736c2a262c516"
+}

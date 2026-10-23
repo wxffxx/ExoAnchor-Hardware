@@ -1,0 +1,833 @@
+{
+  "bundled_3d_geometry": false,
+  "source_model_references": [
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/CONN-SMD_2P-P1.00_MEGASTAR_ZX-SH1.0-2PLT.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/TF-SMD_XKTF-1307-18.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/WSON-8_L6.0-W8.0-H0.8-P1.27.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/WSON-8_L6.0-W8.0-H0.8-P1.27.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/LED0603-RD_RED.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/USB-C-SMD_HX-TYPE-C-16P-L8.35.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/IND-SMD_L3.0-W3.0-H1.5_FNR30XXS.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/IND-SMD_L3.0-W3.0-H1.5_FNR30XXS.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/IND-SMD_L3.0-W3.0-H1.5_FNR30XXS.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/TQFN-16_L3.0-W3.0-P0.50-BL-EP1.7.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/TQFN-16_L3.0-W3.0-P0.50-BL-EP1.7.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/HVQFN-24_L3.0-W3.0-P0.40-TL-EP1.9.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/QFN-48_L7.0-W7.0-P0.50-TL-EP4.6-1.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0603_L1.6-W0.8-H0.8.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0603_L1.6-W0.8-H0.8.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0603_L1.6-W0.8-H0.8.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0603_L1.6-W0.8-H0.8.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0603_L1.6-W0.8-H0.8.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0603_L1.6-W0.8-H0.8.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0603_L1.6-W0.8-H0.8.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0603_L1.6-W0.8-H0.8.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0603_L1.6-W0.8-H0.8.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0603_L1.6-W0.8-H0.8.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0603_L1.6-W0.8-H0.8.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0603_L1.6-W0.8-H0.8.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/HDR-TH_24P-P2.54-M-WI-2X12P.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/LED0603-RD_RED.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/SO-16_L10.3-W4.4-H2.1-P1.27.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/SOT-563-6_L1.6-W1.2-P0.50-LS1.6-BL.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/USON-10_L2.5-W1.0-H0.6-P0.50.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/USON-10_L2.5-W1.0-H0.6-P0.50.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/QFN-104_L10.0-W10.0-P0.35-TL-EP7.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/RJ45-TH_HR911105A.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/SOT-23-5_L2.9-W1.6-H1.1-LS2.8-P0.95.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/SOT-23-5_L2.9-W1.6-H1.1-LS2.8-P0.95.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/SOT-23-5_L2.9-W1.6-H1.1-LS2.8-P0.95.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/HDMI-SMD_HDMI-001S.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/CONN-SMD_4P-P1.00_ZX-SH1.0-4PLN.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/CRYSTAL-SMD_4P-L3.2-W2.5-BL.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/CRYSTAL-SMD_4P-L3.2-W2.5-BL.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/L0603_L1.6-W0.8-H0.5_BEAD.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/L0603_L1.6-W0.8-H0.5_BEAD.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/L0603_L1.6-W0.8-H0.5_BEAD.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/L0603_L1.6-W0.8-H0.5_BEAD.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/L0603_L1.6-W0.8-H0.5_BEAD.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/L0603_L1.6-W0.8-H0.5_BEAD.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/L0603_L1.6-W0.8-H0.5_BEAD.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/DO0603_L1.6-W0.8-H0.8-LS1.6.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/DO0603_L1.6-W0.8-H0.8-LS1.6.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/OSC-SMD_4P-L3.2-W2.5-H1.0.step"
+    },
+    {
+      "file": "ExoAnchor_P4_V2.4A6.kicad_pcb",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL.step"
+    },
+    {
+      "file": "ExoAnchor_V24A6.pretty/USB-C-SMD_HX-TYPE-C-16P-L8.35__cf6aeb05.kicad_mod",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/USB-C-SMD_HX-TYPE-C-16P-L8.35.step"
+    },
+    {
+      "file": "ExoAnchor_V24A6.pretty/R0603__601aad73.kicad_mod",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0603.step"
+    },
+    {
+      "file": "ExoAnchor_V24A6.pretty/SO-16_L10.3-W4.4-P1.27-LS7.0-BL__4ca11b91.kicad_mod",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/SO-16_L10.3-W4.4-H2.1-P1.27.step"
+    },
+    {
+      "file": "ExoAnchor_V24A6.pretty/C0603__a4480e4e.kicad_mod",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0603_L1.6-W0.8-H0.8.step"
+    },
+    {
+      "file": "ExoAnchor_V24A6.pretty/C0402__aba8f707.kicad_mod",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0402_L1.0-W0.5-H0.5.step"
+    },
+    {
+      "file": "ExoAnchor_V24A6.pretty/SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR__682be208.kicad_mod",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95.step"
+    },
+    {
+      "file": "ExoAnchor_V24A6.pretty/C0805__eb27e37a.kicad_mod",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_V24A6.pretty/L0603__74272984.kicad_mod",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/L0603_L1.6-W0.8-H0.5_BEAD.step"
+    },
+    {
+      "file": "ExoAnchor_V24A6.pretty/WSON-8_L6.0-W8.0-P1.27-BL-EP__e8e18484.kicad_mod",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/WSON-8_L6.0-W8.0-H0.8-P1.27.step"
+    },
+    {
+      "file": "ExoAnchor_V24A6.pretty/C0805__a0d28e2e.kicad_mod",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0805_L2.0-W1.3-H1.3.step"
+    },
+    {
+      "file": "ExoAnchor_V24A6.pretty/HDMI-SMD_HDMI-001S__cd4ec1f9.kicad_mod",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/HDMI-SMD_HDMI-001S.step"
+    },
+    {
+      "file": "ExoAnchor_V24A6.pretty/TF-SMD_XKTF-1307-18__7bd28ea8.kicad_mod",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/TF-SMD_XKTF-1307-18.step"
+    },
+    {
+      "file": "ExoAnchor_V24A6.pretty/C0603__62af29ea.kicad_mod",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/C0603_L1.6-W0.8-H0.8.step"
+    },
+    {
+      "file": "ExoAnchor_V24A6.pretty/CRYSTAL-SMD_4P-L3.2-W2.5-BL__9c9dbee8.kicad_mod",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/CRYSTAL-SMD_4P-L3.2-W2.5-BL.step"
+    },
+    {
+      "file": "ExoAnchor_V24A6.pretty/SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR__f09f3096.kicad_mod",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/SOT-23-5_L2.9-W1.6-H1.1-LS2.8-P0.95.step"
+    },
+    {
+      "file": "ExoAnchor_V24A6.pretty/R0402__b4a31b25.kicad_mod",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/R0402_L1.0-W0.5-H0.4.step"
+    },
+    {
+      "file": "ExoAnchor_V24A6.pretty/RJ45-TH_HR911105A__b23e0a26.kicad_mod",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/RJ45-TH_HR911105A.step"
+    },
+    {
+      "file": "ExoAnchor_V24A6.pretty/QFN-48_L7.0-W7.0-P0.50-TL-EP4.1__b8ae6dac.kicad_mod",
+      "model": "${KIPRJMOD}/EASYEDA_MODELS/QFN-48_L7.0-W7.0-P0.50-TL-EP4.6-1.step"
+    }
+  ]
+}

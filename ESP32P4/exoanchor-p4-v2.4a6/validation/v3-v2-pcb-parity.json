@@ -1,0 +1,16 @@
+{
+  "native_v3_components": 190,
+  "pad_checks": 772,
+  "pad_net_mismatches": [],
+  "component_position_mismatches": [],
+  "v3_line_records": 1900,
+  "v3_nonzero_lines": 1896,
+  "v2_lines": 1894,
+  "v3_vias": 406,
+  "result": "PASS: components, pad nets and positions; V2 omitted four zero-length and two submicron line records",
+  "omitted_v3_lines": {
+    "zero_length": 4,
+    "submicron_length": 2,
+    "submicron_length_mm": 0.0002794
+  }
+}

@@ -8,7 +8,7 @@ This repository contains ExoAnchor hardware design outputs and hardware-specific
 
 | Path | Role |
 | --- | --- |
-| `ESP32P4/exoanchor-p4-v2.4a6/` | ⏳ Current custom ExoAnchor P4 V2.4a6, pending publication |
+| [`ESP32P4/exoanchor-p4-v2.4a6/`](ESP32P4/exoanchor-p4-v2.4a6/) | Standalone JLCEDA and KiCad V2.4A6 projects; conversion checked, manufacturing signoff pending |
 | [`ESP32P4/simple-diy/`](ESP32P4/simple-diy/) | Waveshare simple DIY designs and expansion board |
 | [`ESP32P4/archive/`](ESP32P4/archive/) | Historical material no longer used by new designs |
 | `assets/brand/` | Brand geometry for PCB silkscreen |

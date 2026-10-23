@@ -1,0 +1,27 @@
+{
+  "local_symbol_library": "ExoAnchor_-easyedapro.kicad_sym",
+  "source_cached_symbol_names_preserved": true,
+  "power_references_annotated": 192,
+  "final_schematic_translation_mm": 20.32,
+  "library_cache_differences_recorded_in_erc": true,
+  "default_footprints_relinked": 66,
+  "symbols_with_multiple_footprint_variants": {
+    "ExoAnchor_-easyedapro:CC0603KRX7R9BB104": {
+      "ExoAnchor_V24A6:C0402 \u53bb\u8026\u7535\u5bb9__92f207f8": 12,
+      "ExoAnchor_V24A6:C0603__a4480e4e": 6
+    },
+    "ExoAnchor_-easyedapro:FC-DA1608HRK-620D": {
+      "ExoAnchor_V24A6:LED0603-RD_RED__01c91157": 1,
+      "ExoAnchor_V24A6:LED0603-RD_RED__01a96b01": 1
+    },
+    "ExoAnchor_-easyedapro:\u7535\u963b": {
+      "ExoAnchor_V24A6:R0603__0f1821c5": 5,
+      "ExoAnchor_V24A6:R0402__b4a31b25": 8
+    },
+    "ExoAnchor_-easyedapro:Capacitance": {
+      "ExoAnchor_V24A6:C0402 \u53bb\u8026\u7535\u5bb9__92f207f8": 25,
+      "ExoAnchor_V24A6:C0402__aba8f707": 4
+    }
+  },
+  "instance_footprint_variants_preserved": true
+}

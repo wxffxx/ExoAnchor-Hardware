@@ -1,0 +1,10 @@
+{
+  "basis": "Native 2026-09-30 EPRO2 distinct PCIe wire groups; historical 2026-07-29 netlist; unchanged PCB pad nets",
+  "v2_compatibility_issue": "V2 export changed the right GND wire group NET to 3V3AUX, added an automatic short symbol, and placed NET anchors at wire crossings.",
+  "restored_native_groups": 14,
+  "original_v2_export": "reference/V2_compatibility_export_as_received.epro",
+  "source_pcb_and_other_seven_sheets_unchanged": true,
+  "delivered_restoration_target": "KiCad/12_PCIe.kicad_sch",
+  "native_v3_design_unchanged": true,
+  "v2_repair_not_delivered": "The attempted V2 compatibility rewrite was rejected by the importer. Only validated EPRO2/eprj3 are delivered as JLC entrypoints."
+}
