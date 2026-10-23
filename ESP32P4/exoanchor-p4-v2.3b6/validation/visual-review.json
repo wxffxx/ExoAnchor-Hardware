@@ -1,0 +1,10 @@
+{
+  "reviewed": [
+    "preview/PCB_top.png",
+    "preview/PCB_bottom.png",
+    "preview/schematic-overview.png"
+  ],
+  "review": "PCB outline, artwork, component layout and all eight design sheets plus navigation page visually inspected. Source frame overlaps retained; not a typesetting cleanup.",
+  "native_pcb_opened": true,
+  "manufacturing_signoff": false
+}

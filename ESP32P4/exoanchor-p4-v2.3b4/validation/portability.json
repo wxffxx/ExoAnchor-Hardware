@@ -1,0 +1,9 @@
+{
+  "copied_only": "KiCad/",
+  "relocated_to_unrelated_directory": true,
+  "fresh_netlist_export_succeeded": true,
+  "net_names_and_endpoint_sets_equal": true,
+  "exported_net_count": 209,
+  "library_paths": "${KIPRJMOD} relative paths; local symbols and footprints included",
+  "external_3d_geometry_bundled": false
+}

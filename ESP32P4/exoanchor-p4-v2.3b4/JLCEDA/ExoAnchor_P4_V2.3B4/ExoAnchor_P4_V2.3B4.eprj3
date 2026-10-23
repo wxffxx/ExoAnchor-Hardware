@@ -1,0 +1,150 @@
+{
+  "name": "ExoAnchor_P4_V2.3B4",
+  "owner_uuid": "21343acd9a634524bd602243f42ac87c",
+  "creator_uuid": "21343acd9a634524bd602243f42ac87c",
+  "created_at": "2026-10-22 21:13:48",
+  "updated_at": "2026-10-22 21:13:48",
+  "modifier_uuid": "21343acd9a634524bd602243f42ac87c",
+  "content": "",
+  "archive": false,
+  "cbb_project": 0,
+  "thumb": "",
+  "ticket": 1,
+  "g_ticket": 1,
+  "boards": [],
+  "block_symbol_attrs_groups": {},
+  "default_sheet": "83b73b92525e5039",
+  "branch_uuid": "",
+  "pcb_count": 0,
+  "format": "folder",
+  "config": {
+    "defaultSheet": "83b73b92525e5039",
+    "settings": {
+      "UNIVERSAL": {
+        "dataType": "UNIVERSAL",
+        "data": {
+          "allowLibRename": true,
+          "defaultNetName": true,
+          "wireMultipleNet": true,
+          "netFlagCrossLayerConnection": true,
+          "netLabelCrossPageConnection": true,
+          "busGenerateNetClass": true,
+          "relevanceDisplayRow": "SINGLE",
+          "relevanceBelongSchPage": "NAME",
+          "relevanceLocation": "ZONE"
+        }
+      }
+    }
+  },
+  "profile": {
+    "boards": {
+      "8e5cb2ceb957c695": {
+        "uuid": "8e5cb2ceb957c695",
+        "title": "ESP32P4_Prototype_V2.3b4layers_260724封存（已验证）",
+        "zIndex": 9
+      }
+    },
+    "schematics": {
+      "16e5e15b4f9b57dd": {
+        "uuid": "16e5e15b4f9b57dd",
+        "name": "SCH_ESP32P4_Prototype_V2.3b6_1",
+        "board": "8e5cb2ceb957c695",
+        "source": "",
+        "version": "1792718055265",
+        "updateTime": 1792718055265
+      }
+    },
+    "sheets": {
+      "7f1a330cb46dc443": {
+        "uuid": "7f1a330cb46dc443",
+        "title": "ETH",
+        "schematic_uuid": "16e5e15b4f9b57dd",
+        "zIndex": 3,
+        "source": "",
+        "version": "1783934131023",
+        "updateTime": 1784131671654
+      },
+      "6e226c2e2a8df0f0": {
+        "uuid": "6e226c2e2a8df0f0",
+        "title": "HDMI_Captrue_MS2109",
+        "schematic_uuid": "16e5e15b4f9b57dd",
+        "zIndex": 4.25,
+        "source": "",
+        "version": "1784474711510",
+        "updateTime": 1784474711510
+      },
+      "1f6e615b7e58ded5": {
+        "uuid": "1f6e615b7e58ded5",
+        "title": "P1",
+        "schematic_uuid": "16e5e15b4f9b57dd",
+        "zIndex": 0.5,
+        "source": "",
+        "version": "1783782585119",
+        "updateTime": 1784131671654
+      },
+      "97ae89ab5d3131d6": {
+        "uuid": "97ae89ab5d3131d6",
+        "title": "P4",
+        "schematic_uuid": "16e5e15b4f9b57dd",
+        "zIndex": 3.5,
+        "source": "",
+        "version": "1784130830824",
+        "updateTime": 1784131671654
+      },
+      "0984723be505a641": {
+        "uuid": "0984723be505a641",
+        "title": "PCIe",
+        "schematic_uuid": "16e5e15b4f9b57dd",
+        "zIndex": 6.75,
+        "source": "",
+        "version": "1783529600219",
+        "updateTime": 1784131671654
+      },
+      "93280e869128f700": {
+        "uuid": "93280e869128f700",
+        "title": "Power",
+        "schematic_uuid": "16e5e15b4f9b57dd",
+        "zIndex": 5,
+        "source": "",
+        "version": "1784476070382",
+        "updateTime": 1784476070382
+      },
+      "2290b75cf8f53218": {
+        "uuid": "2290b75cf8f53218",
+        "title": "TF",
+        "schematic_uuid": "16e5e15b4f9b57dd",
+        "zIndex": 6.875,
+        "source": "",
+        "version": "1783876000875",
+        "updateTime": 1784131671654
+      },
+      "957a895d6c5b1385": {
+        "uuid": "957a895d6c5b1385",
+        "title": "USB_UARTOther IO",
+        "schematic_uuid": "16e5e15b4f9b57dd",
+        "zIndex": 1,
+        "source": "",
+        "version": "1792718055265",
+        "updateTime": 1792718055265
+      }
+    },
+    "pcbs": {
+      "83b73b92525e5039": {
+        "uuid": "83b73b92525e5039",
+        "title": "ESP32P4_Prototype_V2.3b4layers",
+        "board": "8e5cb2ceb957c695",
+        "parent_uuid": "",
+        "source": "",
+        "version": "1784883198488",
+        "updateTime": 1784883198488
+      }
+    },
+    "panels": {},
+    "blockSymbols": {},
+    "owner": {
+      "uuid": "21343acd9a634524bd602243f42ac87c"
+    },
+    "simSchematics": {},
+    "simulations": {}
+  }
+}

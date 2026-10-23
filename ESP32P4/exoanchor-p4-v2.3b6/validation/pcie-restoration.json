@@ -1,0 +1,17 @@
+{
+  "restored_native_wire_groups": 16,
+  "basis": "Native V3 distinct PCIe wire groups and unchanged PCB pad networks",
+  "restored_ground_origins": [
+    [
+      215,
+      -540
+    ],
+    [
+      75,
+      -540
+    ]
+  ],
+  "target": "KiCad/12_PCIe.kicad_sch",
+  "native_jlceda_design_unchanged": true,
+  "known_v2_compatibility_export_issue": "GND, 3V3AUX and WAKE# incorrectly merged by compatibility export."
+}

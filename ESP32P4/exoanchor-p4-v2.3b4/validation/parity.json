@@ -1,0 +1,32 @@
+{
+  "source_components": 185,
+  "pcb_components": 185,
+  "schematic_components": 185,
+  "reference_sets_equal": true,
+  "pad_checks": 753,
+  "pad_mismatches": [],
+  "pad_number_set_mismatches": [],
+  "position_mismatches_over_1um": [],
+  "source_nonempty_nets": 149,
+  "matched_net_partitions": 149,
+  "net_partition_mismatches": [],
+  "native_item_counts": {
+    "version": 1,
+    "generator": 1,
+    "generator_version": 1,
+    "general": 1,
+    "paper": 1,
+    "layers": 1,
+    "setup": 1,
+    "footprint": 190,
+    "gr_line": 90,
+    "gr_arc": 35,
+    "gr_text": 9,
+    "segment": 1902,
+    "via": 401,
+    "arc": 25,
+    "zone": 130,
+    "embedded_fonts": 1
+  },
+  "pass": true
+}

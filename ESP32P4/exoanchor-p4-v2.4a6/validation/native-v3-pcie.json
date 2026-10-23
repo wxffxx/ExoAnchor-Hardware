@@ -1,0 +1,644 @@
+{
+  "wire_groups": [
+    {
+      "id": "3eeb5235e65b3c7b",
+      "attrs": {
+        "Relevance": "[]",
+        "NET": ""
+      },
+      "lines": [
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 205,
+          "startY": -710,
+          "endX": 250,
+          "endY": -710,
+          "lineGroup": "3eeb5235e65b3c7b"
+        },
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 250,
+          "startY": -710,
+          "endX": 250,
+          "endY": -740,
+          "lineGroup": "3eeb5235e65b3c7b"
+        }
+      ]
+    },
+    {
+      "id": "e49af4f11d3c251f",
+      "attrs": {
+        "Relevance": "[]",
+        "NET": "PERp0"
+      },
+      "lines": [
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 85,
+          "startY": -570,
+          "endX": 35,
+          "endY": -570,
+          "lineGroup": "e49af4f11d3c251f"
+        }
+      ]
+    },
+    {
+      "id": "18671baeef14fc98",
+      "attrs": {
+        "Relevance": "[]",
+        "NET": "PERn0"
+      },
+      "lines": [
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 85,
+          "startY": -560,
+          "endX": 35,
+          "endY": -560,
+          "lineGroup": "18671baeef14fc98"
+        }
+      ]
+    },
+    {
+      "id": "4a06f29692bdfa3e",
+      "attrs": {
+        "Relevance": "[]",
+        "NET": "WAKE#"
+      },
+      "lines": [
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 235,
+          "startY": -630,
+          "endX": 205,
+          "endY": -630,
+          "lineGroup": "4a06f29692bdfa3e"
+        }
+      ]
+    },
+    {
+      "id": "8ec4dd8e45a22e65",
+      "attrs": {
+        "Relevance": "[]",
+        "NET": "PERST#"
+      },
+      "lines": [
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 85,
+          "startY": -630,
+          "endX": 35,
+          "endY": -630,
+          "lineGroup": "8ec4dd8e45a22e65"
+        }
+      ]
+    },
+    {
+      "id": "f004c7c96e61b218",
+      "attrs": {
+        "Relevance": "[]",
+        "NET": "REFCLK+"
+      },
+      "lines": [
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 35,
+          "startY": -600,
+          "endX": 85,
+          "endY": -600,
+          "lineGroup": "f004c7c96e61b218"
+        }
+      ]
+    },
+    {
+      "id": "0a262476b1761214",
+      "attrs": {
+        "Relevance": "[]",
+        "NET": "REFCLK-"
+      },
+      "lines": [
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 35,
+          "startY": -590,
+          "endX": 85,
+          "endY": -590,
+          "lineGroup": "0a262476b1761214"
+        }
+      ]
+    },
+    {
+      "id": "f299442bd46b9dee",
+      "attrs": {
+        "Relevance": "[]",
+        "NET": "PETn0"
+      },
+      "lines": [
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 205,
+          "startY": -580,
+          "endX": 245,
+          "endY": -580,
+          "lineGroup": "f299442bd46b9dee"
+        }
+      ]
+    },
+    {
+      "id": "c5905ffb322547c7",
+      "attrs": {
+        "Relevance": "[]",
+        "NET": "PETp0"
+      },
+      "lines": [
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 205,
+          "startY": -590,
+          "endX": 245,
+          "endY": -590,
+          "lineGroup": "c5905ffb322547c7"
+        }
+      ]
+    },
+    {
+      "id": "3bd2bc6eedf28930",
+      "attrs": {
+        "Relevance": "[]",
+        "NET": ""
+      },
+      "lines": [
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 205,
+          "startY": -700,
+          "endX": 215,
+          "endY": -700,
+          "lineGroup": "3bd2bc6eedf28930"
+        },
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 215,
+          "startY": -700,
+          "endX": 215,
+          "endY": -670,
+          "lineGroup": "3bd2bc6eedf28930"
+        },
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 205,
+          "startY": -670,
+          "endX": 215,
+          "endY": -670,
+          "lineGroup": "3bd2bc6eedf28930"
+        },
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 215,
+          "startY": -670,
+          "endX": 215,
+          "endY": -600,
+          "lineGroup": "3bd2bc6eedf28930"
+        },
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 205,
+          "startY": -600,
+          "endX": 215,
+          "endY": -600,
+          "lineGroup": "3bd2bc6eedf28930"
+        },
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 215,
+          "startY": -600,
+          "endX": 215,
+          "endY": -570,
+          "lineGroup": "3bd2bc6eedf28930"
+        },
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 215,
+          "startY": -570,
+          "endX": 205,
+          "endY": -570,
+          "lineGroup": "3bd2bc6eedf28930"
+        },
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 215,
+          "startY": -550,
+          "endX": 215,
+          "endY": -570,
+          "lineGroup": "3bd2bc6eedf28930"
+        },
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 205,
+          "startY": -550,
+          "endX": 215,
+          "endY": -550,
+          "lineGroup": "3bd2bc6eedf28930"
+        },
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 215,
+          "startY": -550,
+          "endX": 215,
+          "endY": -540,
+          "lineGroup": "3bd2bc6eedf28930"
+        }
+      ]
+    },
+    {
+      "id": "f0acf9bc3749e6f1",
+      "attrs": {
+        "Relevance": "[]",
+        "NET": ""
+      },
+      "lines": [
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 75,
+          "startY": -580,
+          "endX": 75,
+          "endY": -610,
+          "lineGroup": "f0acf9bc3749e6f1"
+        },
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 75,
+          "startY": -700,
+          "endX": 85,
+          "endY": -700,
+          "lineGroup": "f0acf9bc3749e6f1"
+        },
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 75,
+          "startY": -610,
+          "endX": 75,
+          "endY": -700,
+          "lineGroup": "f0acf9bc3749e6f1"
+        },
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 75,
+          "startY": -610,
+          "endX": 85,
+          "endY": -610,
+          "lineGroup": "f0acf9bc3749e6f1"
+        },
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 75,
+          "startY": -580,
+          "endX": 85,
+          "endY": -580,
+          "lineGroup": "f0acf9bc3749e6f1"
+        },
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 75,
+          "startY": -580,
+          "endX": 75,
+          "endY": -550,
+          "lineGroup": "f0acf9bc3749e6f1"
+        },
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 75,
+          "startY": -550,
+          "endX": 75,
+          "endY": -540,
+          "lineGroup": "f0acf9bc3749e6f1"
+        },
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 85,
+          "startY": -550,
+          "endX": 75,
+          "endY": -550,
+          "lineGroup": "f0acf9bc3749e6f1"
+        }
+      ]
+    },
+    {
+      "id": "a755006323e50968",
+      "attrs": {
+        "Relevance": "[]",
+        "NET": "PRSNT1#"
+      },
+      "lines": [
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 205,
+          "startY": -560,
+          "endX": 245,
+          "endY": -560,
+          "lineGroup": "a755006323e50968"
+        }
+      ]
+    },
+    {
+      "id": "915b02749039d02a",
+      "attrs": {
+        "Relevance": "[]",
+        "NET": "PRSNT1#"
+      },
+      "lines": [
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 55,
+          "startY": -730,
+          "endX": 85,
+          "endY": -730,
+          "lineGroup": "915b02749039d02a"
+        }
+      ]
+    },
+    {
+      "id": "ea61b5c1fa86660b",
+      "attrs": {
+        "Relevance": "[]",
+        "NET": "3V3AUX"
+      },
+      "lines": [
+        {
+          "fillColor": null,
+          "fillStyle": null,
+          "strokeColor": null,
+          "strokeStyle": null,
+          "strokeWidth": null,
+          "startX": 205,
+          "startY": -640,
+          "endX": 235,
+          "endY": -640,
+          "lineGroup": "ea61b5c1fa86660b"
+        }
+      ]
+    }
+  ],
+  "components": [
+    {
+      "id": "c610afc706428fef",
+      "record": {
+        "partId": "pid8a0e77bacb214e",
+        "x": 0,
+        "y": 0,
+        "rotation": 0,
+        "isMirror": false,
+        "attrs": {},
+        "zIndex": null
+      },
+      "attrs": {
+        "Symbol": "9ac7472ef246137a",
+        "Company": "嘉立创EDA",
+        "Drawed": "",
+        "Reviewed": "",
+        "Part Number": "",
+        "Version": "V1.0",
+        "Page Size": "A4",
+        "@Project Name": "远程开机卡",
+        "@Update Date": "2026-06-24",
+        "@Create Date": "2026-06-24",
+        "Device": "3c47cb8e9be44fa2",
+        "@Board Name": "ESP32P4_PCIE_FULL",
+        "@Page Name": "P5",
+        "@Create Time": "17:14:13",
+        "@Page Count": "8",
+        "@Page No": "0",
+        "@Schematic Name": "SCH_3",
+        "@Update Time": "17:14:13",
+        "@Assembly Variant": "Basic",
+        "Border": "1",
+        "Title Block Position": "3",
+        "Size": "A4",
+        "Width": "1170",
+        "Height": "825",
+        "Region Start": "1",
+        "X Region Count": "6",
+        "Y Region Count": "4",
+        "Blade Width": "10",
+        "Color": "",
+        "Title Block": "0",
+        "Name": "",
+        "Description": ""
+      }
+    },
+    {
+      "id": "7c79769ab03ad829",
+      "record": {
+        "partId": "2c3ce9de465eb1f3",
+        "x": 105,
+        "y": -740,
+        "rotation": 0,
+        "isMirror": false,
+        "attrs": {},
+        "zIndex": 1537
+      },
+      "attrs": {
+        "Symbol": "307e50f308f1837b",
+        "Device": "062820da088e5e80",
+        "Designator": "U12",
+        "Unique ID": "gge367_0",
+        "Name": null,
+        "Footprint": null,
+        "Reuse Block": null,
+        "Group ID": null,
+        "Channel ID": null,
+        "Description": "",
+        "Check": "false"
+      }
+    },
+    {
+      "id": "e579c08c0aaf6ad5",
+      "record": {
+        "partId": "pid8a0e77bacb214e",
+        "x": 215,
+        "y": -540,
+        "rotation": 0,
+        "isMirror": false,
+        "attrs": {},
+        "zIndex": 1541
+      },
+      "attrs": {
+        "Symbol": "6aaa11fbb6f9f21e",
+        "Device": "ba29737b553094c2",
+        "Name": "GND",
+        "Global Net Name": "GND",
+        "Relevance": "[]",
+        "Description": null,
+        "3D Model": null,
+        "3D Model Title": null,
+        "3D Model Transform": null
+      }
+    },
+    {
+      "id": "3815f64a972d483d",
+      "record": {
+        "partId": "pid8a0e77bacb214e",
+        "x": 75,
+        "y": -540,
+        "rotation": 0,
+        "isMirror": false,
+        "attrs": {},
+        "zIndex": 1541
+      },
+      "attrs": {
+        "Symbol": "6aaa11fbb6f9f21e",
+        "Device": "ba29737b553094c2",
+        "Name": "GND",
+        "Global Net Name": "GND",
+        "Relevance": "[]",
+        "Description": null,
+        "3D Model": null,
+        "3D Model Title": null,
+        "3D Model Transform": null
+      }
+    },
+    {
+      "id": "913a7a5b50775a44",
+      "record": {
+        "partId": "pid8a0e77bacb214e",
+        "x": 250,
+        "y": -740,
+        "rotation": 0,
+        "isMirror": false,
+        "attrs": {},
+        "zIndex": 1194
+      },
+      "attrs": {
+        "Symbol": "4059c8a9384763a0",
+        "Device": "b7a9eba1f4ba6cdc",
+        "Name": "12V_SYS",
+        "Global Net Name": "12V_SYS",
+        "Relevance": "[]",
+        "Description": null,
+        "3D Model": null,
+        "3D Model Title": null,
+        "3D Model Transform": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+(kicad_sch
+  (version 20260512)
+  (generator "eeschema")
+  (generator_version "10.99")
+  (uuid "457f7461-0b43-46e4-80e8-66297349dac6")
+  (paper "A4")
+  (lib_symbols)
+  (sheet
+    (at 25 30)
+    (size 110 16)
+    (exclude_from_sim no)
+    (in_bom yes)
+    (on_board yes)
+    (dnp no)
+    (fields_autoplaced yes)
+    (stroke
+      (width 0)
+      (type solid)
+    )
+    (fill
+      (color 0 0 0 0)
+    )
+    (uuid "081ba166-28ee-4706-a1a9-525a8d51bbd5")
+    (property "Sheetname" "PCIe"
+      (at 25 28 0)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "Sheetfile" "12_PCIe.kicad_sch"
+      (at 25 48 0)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+        (justify left top)
+      )
+    )
+    (instances
+      (project "ExoAnchor_P4_V2.3B6"
+        (path "/457f7461-0b43-46e4-80e8-66297349dac6"
+          (page "12")
+        )
+      )
+    )
+  )
+  (sheet
+    (at 155 30)
+    (size 110 16)
+    (exclude_from_sim no)
+    (in_bom yes)
+    (on_board yes)
+    (dnp no)
+    (fields_autoplaced yes)
+    (stroke
+      (width 0)
+      (type solid)
+    )
+    (fill
+      (color 0 0 0 0)
+    )
+    (uuid "66dcd026-84f4-4ee3-8917-97529e7f80d1")
+    (property "Sheetname" "ETH"
+      (at 155 28 0)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "Sheetfile" "4_ETH.kicad_sch"
+      (at 155 48 0)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+        (justify left top)
+      )
+    )
+    (instances
+      (project "ExoAnchor_P4_V2.3B6"
+        (path "/457f7461-0b43-46e4-80e8-66297349dac6"
+          (page "4")
+        )
+      )
+    )
+  )
+  (sheet
+    (at 25 72)
+    (size 110 16)
+    (exclude_from_sim no)
+    (in_bom yes)
+    (on_board yes)
+    (dnp no)
+    (fields_autoplaced yes)
+    (stroke
+      (width 0)
+      (type solid)
+    )
+    (fill
+      (color 0 0 0 0)
+    )
+    (uuid "7ab9d1d4-9280-4980-861e-30eab0384b19")
+    (property "Sheetname" "P1"
+      (at 25 70 0)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "Sheetfile" "8_P1.kicad_sch"
+      (at 25 90 0)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+        (justify left top)
+      )
+    )
+    (instances
+      (project "ExoAnchor_P4_V2.3B6"
+        (path "/457f7461-0b43-46e4-80e8-66297349dac6"
+          (page "8")
+        )
+      )
+    )
+  )
+  (sheet
+    (at 155 72)
+    (size 110 16)
+    (exclude_from_sim no)
+    (in_bom yes)
+    (on_board yes)
+    (dnp no)
+    (fields_autoplaced yes)
+    (stroke
+      (width 0)
+      (type solid)
+    )
+    (fill
+      (color 0 0 0 0)
+    )
+    (uuid "a4c9a1c4-cd2d-40fa-a76c-80e90f176f86")
+    (property "Sheetname" "Power"
+      (at 155 70 0)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "Sheetfile" "6_Power.kicad_sch"
+      (at 155 90 0)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+        (justify left top)
+      )
+    )
+    (instances
+      (project "ExoAnchor_P4_V2.3B6"
+        (path "/457f7461-0b43-46e4-80e8-66297349dac6"
+          (page "6")
+        )
+      )
+    )
+  )
+  (sheet
+    (at 25 114)
+    (size 110 16)
+    (exclude_from_sim no)
+    (in_bom yes)
+    (on_board yes)
+    (dnp no)
+    (fields_autoplaced yes)
+    (stroke
+      (width 0)
+      (type solid)
+    )
+    (fill
+      (color 0 0 0 0)
+    )
+    (uuid "b0b0959c-ec67-4724-9400-c49ff48b409b")
+    (property "Sheetname" "HDMI_Captrue_MS2109"
+      (at 25 112 0)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "Sheetfile" "5_HDMI_Captrue_MS2109.kicad_sch"
+      (at 25 132 0)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+        (justify left top)
+      )
+    )
+    (instances
+      (project "ExoAnchor_P4_V2.3B6"
+        (path "/457f7461-0b43-46e4-80e8-66297349dac6"
+          (page "5")
+        )
+      )
+    )
+  )
+  (sheet
+    (at 155 114)
+    (size 110 16)
+    (exclude_from_sim no)
+    (in_bom yes)
+    (on_board yes)
+    (dnp no)
+    (fields_autoplaced yes)
+    (stroke
+      (width 0)
+      (type solid)
+    )
+    (fill
+      (color 0 0 0 0)
+    )
+    (uuid "b3901eb6-7785-4c32-b08b-2a828bcfe750")
+    (property "Sheetname" "TF"
+      (at 155 112 0)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "Sheetfile" "13_TF.kicad_sch"
+      (at 155 132 0)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+        (justify left top)
+      )
+    )
+    (instances
+      (project "ExoAnchor_P4_V2.3B6"
+        (path "/457f7461-0b43-46e4-80e8-66297349dac6"
+          (page "13")
+        )
+      )
+    )
+  )
+  (sheet
+    (at 25 156)
+    (size 110 16)
+    (exclude_from_sim no)
+    (in_bom yes)
+    (on_board yes)
+    (dnp no)
+    (fields_autoplaced yes)
+    (stroke
+      (width 0)
+      (type solid)
+    )
+    (fill
+      (color 0 0 0 0)
+    )
+    (uuid "d3d11f6d-6a87-45d5-97c4-1c327afce6c0")
+    (property "Sheetname" "USB_UART/Other IO"
+      (at 25 154 0)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "Sheetfile" "1_USB_UART_Other_IO.kicad_sch"
+      (at 25 174 0)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+        (justify left top)
+      )
+    )
+    (instances
+      (project "ExoAnchor_P4_V2.3B6"
+        (path "/457f7461-0b43-46e4-80e8-66297349dac6"
+          (page "1")
+        )
+      )
+    )
+  )
+  (sheet
+    (at 155 156)
+    (size 110 16)
+    (exclude_from_sim no)
+    (in_bom yes)
+    (on_board yes)
+    (dnp no)
+    (fields_autoplaced yes)
+    (stroke
+      (width 0)
+      (type solid)
+    )
+    (fill
+      (color 0 0 0 0)
+    )
+    (uuid "ed60bfde-589f-44fa-85f3-279f3ca65ed4")
+    (property "Sheetname" "P4"
+      (at 155 154 0)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "Sheetfile" "10_P4.kicad_sch"
+      (at 155 174 0)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+        (justify left top)
+      )
+    )
+    (instances
+      (project "ExoAnchor_P4_V2.3B6"
+        (path "/457f7461-0b43-46e4-80e8-66297349dac6"
+          (page "10")
+        )
+      )
+    )
+  )
+  (embedded_fonts no)
+)

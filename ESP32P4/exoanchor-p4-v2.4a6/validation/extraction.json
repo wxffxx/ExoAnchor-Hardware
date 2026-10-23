@@ -1,0 +1,83 @@
+{
+  "source_file": "ProPrj_ExoAnchor-ESP32P4_2026-10-19.epro",
+  "source_sha256": "9b2cc36f9943102c009917241d47a295b090af3d4025f9e7d63933b68697ade4",
+  "board_name": "ESP32P4_Prototype_V2.4a6",
+  "board": {
+    "schematic": "2f87d6a08929463b",
+    "pcb": "3c5d6a9e971f621d8494453a03169991"
+  },
+  "schematic": {
+    "name": "SCH_ESP32P4_Prototype_V2.4a6",
+    "sheets": [
+      {
+        "uuid": "4dbdfc7288877237",
+        "id": 8,
+        "name": "P1",
+        "display_title": "P1"
+      },
+      {
+        "uuid": "a3f63a27768189c8",
+        "id": 4,
+        "name": "ETH",
+        "display_title": "ETH"
+      },
+      {
+        "uuid": "463dec13d3d2fe38",
+        "id": 10,
+        "name": "P4",
+        "display_title": "P4"
+      },
+      {
+        "uuid": "602843b1b1f40bc5",
+        "id": 5,
+        "name": "HDMI_Captrue_MS2109",
+        "display_title": "HDMI_Captrue_MS2109"
+      },
+      {
+        "uuid": "1701ad4e71ff67cf",
+        "id": 1,
+        "name": "USB_UART/Other IO",
+        "display_title": "USB_UART/Other IO"
+      },
+      {
+        "uuid": "abbf6d247a295147",
+        "id": 6,
+        "name": "Power",
+        "display_title": "Power"
+      },
+      {
+        "uuid": "06a085fc8632423a",
+        "id": 12,
+        "name": "PCIe",
+        "display_title": "PCIe"
+      },
+      {
+        "uuid": "7d5b578fdc403980",
+        "id": 13,
+        "name": "TF",
+        "display_title": "TF"
+      }
+    ]
+  },
+  "source_design_documents_byte_identical": true,
+  "selected_document_sha256": {
+    "PCB/3c5d6a9e971f621d8494453a03169991.epcb": "c1fa1873547fc979d841c958cf1a0856da04c3d40de16a2223977a125ba982a9",
+    "SHEET/2f87d6a08929463b/8.esch": "6330531b5951716e03f8eff9349111b0e07be76def3d0af6b17d31a49233d3d1",
+    "SHEET/2f87d6a08929463b/4.esch": "3fcd70c898466f42c183d84876d16e70086da44d3fcf6a6e62b2a6c60b2b6788",
+    "SHEET/2f87d6a08929463b/10.esch": "80d9a2e0f9ab1259597c312c9bc55b40d1ca4219643e1fc756729911baa28a73",
+    "SHEET/2f87d6a08929463b/5.esch": "b21e6d0e8432674e0bc4fa7c3231943bf47d89d9c99d1663297001d2b9f7c357",
+    "SHEET/2f87d6a08929463b/1.esch": "576617b68790e5af39f8a22763e4d4bd53a00db52c3897f2154cdab4c66aefae",
+    "SHEET/2f87d6a08929463b/6.esch": "e05e5630fd4d9a56d8b319139040bc558086aa28634f5fad396ccaa21110749b",
+    "SHEET/2f87d6a08929463b/12.esch": "bb89dcf9ee0f831f99aedb3d685afdf44612c1fbfa7412ef9c0db9d0376676c2",
+    "SHEET/2f87d6a08929463b/13.esch": "60235a160b198e283735294906b65c4d9e1a707abae2d2d31c73396895ac659f"
+  },
+  "library_counts": {
+    "devices": 73,
+    "symbols": 81,
+    "footprints": 37
+  },
+  "archive_members": 132,
+  "extracted_sha256": "d80970506e136cb17d3ef7bf4a72687ebfbb1a303d8845116302de651233206d",
+  "artifact_path": "reference/V2_compatibility_export_as_received.epro",
+  "role": "Untouched intermediate with a known PCIe V2 compatibility-export conflict; use the native EPRO2/eprj3 project."
+}

@@ -1,0 +1,11 @@
+{
+  "errors": [],
+  "output_file": "ExoAnchor_P4_V2.3B4.kicad_sch",
+  "source_file": "ExoAnchor_P4_V2.3B4.epro",
+  "source_format": "EasyEDA (JLCEDA) Pro",
+  "statistics": {
+    "sheets": 10,
+    "symbols": 383
+  },
+  "warnings": []
+}

@@ -1,0 +1,2702 @@
+(kicad_sch
+  (version 20260512)
+  (generator "eeschema")
+  (generator_version "10.99")
+  (uuid "e16a18e4-0cc1-40b6-94d2-b1c868e7e3c8")
+  (paper "User" 337.434 249.804)
+  (lib_symbols
+    (symbol "ExoAnchor_-easyedapro:Drawing-Symbol_A4"
+      (exclude_from_sim no)
+      (in_bom yes)
+      (on_board yes)
+      (in_pos_files yes)
+      (duplicate_pin_numbers_are_jumpers no)
+      (property "Reference" ""
+        (at 0 0 0)
+        (show_name no)
+        (do_not_autoplace no)
+        (effects
+          (font
+            (size 1.27 1.27)
+          )
+        )
+      )
+      (property "Value" ""
+        (at 0 0 0)
+        (show_name no)
+        (do_not_autoplace no)
+        (effects
+          (font
+            (size 1.27 1.27)
+          )
+        )
+      )
+      (property "Footprint" ""
+        (at 0 0 0)
+        (show_name no)
+        (do_not_autoplace no)
+        (hide yes)
+        (effects
+          (font
+            (size 1.27 1.27)
+          )
+        )
+      )
+      (property "Datasheet" ""
+        (at 0 0 0)
+        (show_name no)
+        (do_not_autoplace no)
+        (hide yes)
+        (effects
+          (font
+            (size 1.27 1.27)
+          )
+        )
+      )
+      (property "Description" ""
+        (at 0 0 0)
+        (show_name no)
+        (do_not_autoplace no)
+        (hide yes)
+        (effects
+          (font
+            (size 1.27 1.27)
+          )
+        )
+      )
+      (symbol "Drawing-Symbol_A4_1_0"
+        (rectangle
+          (start 0 209.55)
+          (end 297.18 0)
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 0 157.1498)
+            (xy 2.54 157.1498)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 0 104.775)
+            (xy 2.54 104.775)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 0 52.3748)
+            (xy 2.54 52.3748)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (rectangle
+          (start 2.54 207.01)
+          (end 294.64 2.54)
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 49.53 209.55)
+            (xy 49.53 207.01)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 49.53 0)
+            (xy 49.53 2.54)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 99.06 209.55)
+            (xy 99.06 207.01)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 99.06 0)
+            (xy 99.06 2.54)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 116.84 48.26)
+            (xy 116.84 38.1)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 116.84 38.1)
+            (xy 116.84 33.02)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 116.84 38.1)
+            (xy 142.5702 38.1)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 116.84 33.02)
+            (xy 116.84 27.94)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 116.84 33.02)
+            (xy 142.5702 33.02)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 116.84 27.94)
+            (xy 116.84 22.86)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 116.84 27.94)
+            (xy 142.5702 27.94)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 116.84 22.86)
+            (xy 116.84 17.78)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 116.84 22.86)
+            (xy 142.5702 22.86)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 116.84 17.78)
+            (xy 116.84 12.7)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 116.84 17.78)
+            (xy 142.5702 17.78)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 116.84 12.7)
+            (xy 116.84 2.54)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 116.84 12.7)
+            (xy 142.5702 12.7)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 116.84 2.54)
+            (xy 171.5262 2.54)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 48.26)
+            (xy 116.84 48.26)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 48.26)
+            (xy 142.5702 38.1)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 38.1)
+            (xy 116.84 38.1)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 38.1)
+            (xy 142.5702 48.26)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 38.1)
+            (xy 142.5702 33.02)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 38.1)
+            (xy 220.599 38.1)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 33.02)
+            (xy 116.84 33.02)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 33.02)
+            (xy 142.5702 38.1)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 33.02)
+            (xy 142.5702 27.94)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 33.02)
+            (xy 220.599 33.02)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 27.94)
+            (xy 116.84 27.94)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 27.94)
+            (xy 142.5702 33.02)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 27.94)
+            (xy 142.5702 22.86)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 27.94)
+            (xy 171.5262 27.94)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 22.86)
+            (xy 116.84 22.86)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 22.86)
+            (xy 142.5702 27.94)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 22.86)
+            (xy 142.5702 17.78)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 22.86)
+            (xy 171.5262 22.86)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 17.78)
+            (xy 116.84 17.78)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 17.78)
+            (xy 142.5702 22.86)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 17.78)
+            (xy 142.5702 12.7)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 17.78)
+            (xy 171.5262 17.78)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 12.7)
+            (xy 142.5702 17.78)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 142.5702 12.7)
+            (xy 171.5262 12.7)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 148.59 209.55)
+            (xy 148.59 207.01)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 148.59 0)
+            (xy 148.59 2.54)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 171.5262 33.02)
+            (xy 142.5702 33.02)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 171.5262 33.02)
+            (xy 171.5262 17.78)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 171.5262 27.94)
+            (xy 142.5702 27.94)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 171.5262 27.94)
+            (xy 171.5262 33.02)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 171.5262 22.86)
+            (xy 142.5702 22.86)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 171.5262 22.86)
+            (xy 171.5262 27.94)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 171.5262 17.78)
+            (xy 142.5702 17.78)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 171.5262 17.78)
+            (xy 171.5262 22.86)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 171.5262 17.78)
+            (xy 171.5262 12.7)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 171.5262 17.78)
+            (xy 294.64 17.78)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 171.5262 12.7)
+            (xy 116.84 12.7)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 171.5262 12.7)
+            (xy 171.5262 17.78)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 171.5262 12.7)
+            (xy 171.5262 2.54)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 171.5262 12.7)
+            (xy 184.404 12.7)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 171.5262 2.54)
+            (xy 171.5262 12.7)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 171.5262 2.54)
+            (xy 184.404 2.54)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 184.404 17.78)
+            (xy 171.5262 17.78)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 184.404 17.78)
+            (xy 184.404 12.7)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 184.404 12.7)
+            (xy 171.5262 12.7)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 184.404 12.7)
+            (xy 184.404 17.78)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 184.404 12.7)
+            (xy 184.404 2.54)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 184.404 12.7)
+            (xy 197.2818 12.7)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 184.404 2.54)
+            (xy 184.404 12.7)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 184.404 2.54)
+            (xy 197.2818 2.54)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 197.2818 17.78)
+            (xy 184.404 17.78)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 197.2818 17.78)
+            (xy 197.2818 12.7)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 197.2818 12.7)
+            (xy 184.404 12.7)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 197.2818 12.7)
+            (xy 197.2818 17.78)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 197.2818 12.7)
+            (xy 197.2818 2.54)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 197.2818 12.7)
+            (xy 294.64 12.7)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 197.2818 2.54)
+            (xy 197.2818 12.7)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 197.2818 2.54)
+            (xy 294.64 2.54)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 198.12 209.55)
+            (xy 198.12 207.01)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 198.12 0)
+            (xy 198.12 2.54)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 220.599 48.26)
+            (xy 142.5702 48.26)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 220.599 48.26)
+            (xy 220.599 43.18)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 220.599 43.18)
+            (xy 220.599 38.1)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 220.599 43.18)
+            (xy 246.3546 43.18)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 220.599 38.1)
+            (xy 142.5702 38.1)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 220.599 38.1)
+            (xy 220.599 48.26)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 220.599 38.1)
+            (xy 220.599 33.02)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 220.599 38.1)
+            (xy 246.3546 38.1)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 220.599 33.02)
+            (xy 220.599 38.1)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 220.599 33.02)
+            (xy 246.3546 33.02)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 246.3546 48.26)
+            (xy 220.599 48.26)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 246.3546 48.26)
+            (xy 246.3546 43.18)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 246.3546 43.18)
+            (xy 220.599 43.18)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 246.3546 43.18)
+            (xy 246.3546 48.26)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 246.3546 43.18)
+            (xy 246.3546 38.1)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 246.3546 43.18)
+            (xy 294.64 43.18)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 246.3546 38.1)
+            (xy 220.599 38.1)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 246.3546 38.1)
+            (xy 246.3546 43.18)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 246.3546 38.1)
+            (xy 246.3546 33.02)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 246.3546 38.1)
+            (xy 294.64 38.1)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 246.3546 33.02)
+            (xy 246.3546 38.1)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 246.3546 33.02)
+            (xy 294.64 33.02)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 247.65 209.55)
+            (xy 247.65 207.01)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 247.65 0)
+            (xy 247.65 2.54)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 294.64 48.26)
+            (xy 246.3546 48.26)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 294.64 43.18)
+            (xy 246.3546 43.18)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 294.64 43.18)
+            (xy 294.64 48.26)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 294.64 38.1)
+            (xy 246.3546 38.1)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 294.64 38.1)
+            (xy 294.64 43.18)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 294.64 33.02)
+            (xy 171.5262 33.02)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 294.64 33.02)
+            (xy 294.64 38.1)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 294.64 17.78)
+            (xy 197.2818 17.78)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 294.64 17.78)
+            (xy 294.64 33.02)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 294.64 12.7)
+            (xy 197.2818 12.7)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 294.64 12.7)
+            (xy 294.64 17.78)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 294.64 2.54)
+            (xy 294.64 12.7)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 297.18 157.1498)
+            (xy 294.64 157.1498)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 297.18 104.775)
+            (xy 294.64 104.775)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (polyline
+          (pts
+            (xy 297.18 52.3748)
+            (xy 294.64 52.3748)
+          )
+          (stroke
+            (width 0.254)
+            (type solid)
+          )
+          (fill
+            (type none)
+          )
+        )
+        (text "A"
+          (at 1.27 183.3372 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "B"
+          (at 1.27 130.9624 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "C"
+          (at 1.27 78.5622 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "D"
+          (at 1.27 26.1874 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "1"
+          (at 24.765 208.28 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "1"
+          (at 24.765 1.27 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "2"
+          (at 74.295 208.28 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "2"
+          (at 74.295 1.27 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "原理图"
+          (at 118.11 43.18 0)
+          (effects
+            (font
+              (size 2.3622 2.3622)
+            )
+            (justify left)
+          )
+        )
+        (text "板子"
+          (at 118.11 35.56 0)
+          (effects
+            (font
+              (size 2.3622 2.3622)
+            )
+            (justify left)
+          )
+        )
+        (text "绘制"
+          (at 118.11 30.48 0)
+          (effects
+            (font
+              (size 2.3622 2.3622)
+            )
+            (justify left)
+          )
+        )
+        (text "审阅"
+          (at 118.11 25.4 0)
+          (effects
+            (font
+              (size 2.3622 2.3622)
+            )
+            (justify left)
+          )
+        )
+        (text "3"
+          (at 123.825 208.28 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "3"
+          (at 123.825 1.27 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "4"
+          (at 173.355 208.28 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "4"
+          (at 173.355 1.27 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "版本"
+          (at 177.9778 15.24 0)
+          (effects
+            (font
+              (size 2.3622 2.3622)
+            )
+          )
+        )
+        (text "V1.0"
+          (at 177.9778 7.62 0)
+          (effects
+            (font
+              (size 2.3622 2.3622)
+            )
+          )
+        )
+        (text "Schematic3_7"
+          (at 181.5846 43.18 0)
+          (effects
+            (font
+              (size 3.1496 3.1496)
+            )
+          )
+        )
+        (text "cm4"
+          (at 181.5846 35.56 0)
+          (effects
+            (font
+              (size 3.1496 3.1496)
+            )
+          )
+        )
+        (text "尺寸"
+          (at 190.8556 15.24 0)
+          (effects
+            (font
+              (size 2.3622 2.3622)
+            )
+          )
+        )
+        (text "A4"
+          (at 190.8556 7.62 0)
+          (effects
+            (font
+              (size 2.3622 2.3622)
+            )
+          )
+        )
+        (text "创建日期"
+          (at 221.869 45.72 0)
+          (effects
+            (font
+              (size 2.3622 2.3622)
+            )
+            (justify left)
+          )
+        )
+        (text "更新日期"
+          (at 221.869 40.64 0)
+          (effects
+            (font
+              (size 2.3622 2.3622)
+            )
+            (justify left)
+          )
+        )
+        (text "图页"
+          (at 221.869 35.56 0)
+          (effects
+            (font
+              (size 2.3622 2.3622)
+            )
+            (justify left)
+          )
+        )
+        (text "5"
+          (at 222.885 208.28 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "5"
+          (at 222.885 1.27 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "远程开机卡"
+          (at 233.0704 25.4 0)
+          (effects
+            (font
+              (size 3.1496 3.1496)
+            )
+          )
+        )
+        (text "页    7    共    7"
+          (at 245.9482 15.24 0)
+          (effects
+            (font
+              (size 2.3622 2.3622)
+            )
+          )
+        )
+        (text "嘉立创EDA"
+          (at 245.9482 7.62 0)
+          (effects
+            (font
+              (size 2.3622 2.3622)
+            )
+          )
+        )
+        (text "2026-07-15"
+          (at 247.6246 45.72 0)
+          (effects
+            (font
+              (size 2.3622 2.3622)
+            )
+            (justify left)
+          )
+        )
+        (text "2026-07-15"
+          (at 247.6246 40.64 0)
+          (effects
+            (font
+              (size 2.3622 2.3622)
+            )
+            (justify left)
+          )
+        )
+        (text "P1"
+          (at 247.6246 35.56 0)
+          (effects
+            (font
+              (size 2.3622 2.3622)
+            )
+            (justify left)
+          )
+        )
+        (text "6"
+          (at 272.415 208.28 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "6"
+          (at 272.415 1.27 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "A"
+          (at 295.91 183.3372 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "B"
+          (at 295.91 130.9624 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "C"
+          (at 295.91 78.5622 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+        (text "D"
+          (at 295.91 26.1874 0)
+          (effects
+            (font
+              (size 1.5748 1.5748)
+            )
+          )
+        )
+      )
+      (embedded_fonts no)
+    )
+  )
+  (rectangle
+    (start 6.35 81.915)
+    (end 72.39 95.25)
+    (stroke
+      (width 0.254)
+      (type solid)
+    )
+    (fill
+      (type none)
+    )
+    (uuid "1aac2295-b0f2-4f58-b453-6eda51957c37")
+  )
+  (rectangle
+    (start 152.4 5.08)
+    (end 189.23 20.32)
+    (stroke
+      (width 0.254)
+      (type solid)
+    )
+    (fill
+      (type none)
+    )
+    (uuid "35e3aab5-287e-4054-9afb-2e6cc0266050")
+  )
+  (rectangle
+    (start 152.4 22.86)
+    (end 189.23 63.5)
+    (stroke
+      (width 0.254)
+      (type solid)
+    )
+    (fill
+      (type none)
+    )
+    (uuid "4333eac8-8421-4bac-956f-364b837fd6eb")
+  )
+  (rectangle
+    (start 74.93 5.08)
+    (end 149.86 95.25)
+    (stroke
+      (width 0.254)
+      (type solid)
+    )
+    (fill
+      (type none)
+    )
+    (uuid "59bba4fd-5360-4d29-b766-adb44918cd81")
+  )
+  (rectangle
+    (start 152.4 82.55)
+    (end 189.23 95.25)
+    (stroke
+      (width 0.254)
+      (type solid)
+    )
+    (fill
+      (type none)
+    )
+    (uuid "5d46fbf6-f136-4052-b9ef-a5c373ce146a")
+  )
+  (rectangle
+    (start 26.67 25.4)
+    (end 72.39 43.18)
+    (stroke
+      (width 0.254)
+      (type solid)
+    )
+    (fill
+      (type none)
+    )
+    (uuid "661f7e89-6e8d-4089-914e-ec78f8571b92")
+  )
+  (rectangle
+    (start 191.77 64.77)
+    (end 217.17 95.25)
+    (stroke
+      (width 0.254)
+      (type solid)
+    )
+    (fill
+      (type none)
+    )
+    (uuid "747d1b17-4d03-4d97-9ce8-cc5bcfd1c144")
+  )
+  (rectangle
+    (start 191.77 5.08)
+    (end 217.17 20.32)
+    (stroke
+      (width 0.254)
+      (type solid)
+    )
+    (fill
+      (type none)
+    )
+    (uuid "8fb13241-d8b1-4d6a-9b0c-8caacf53716d")
+  )
+  (rectangle
+    (start 6.35 66.04)
+    (end 72.39 80.01)
+    (stroke
+      (width 0.254)
+      (type solid)
+    )
+    (fill
+      (type none)
+    )
+    (uuid "929bc531-ec75-43df-a990-b72d00af704f")
+  )
+  (rectangle
+    (start 26.67 45.72)
+    (end 72.39 63.5)
+    (stroke
+      (width 0.254)
+      (type solid)
+    )
+    (fill
+      (type none)
+    )
+    (uuid "a6d78c41-f1f4-4e8e-b349-b1f9e0a631dc")
+  )
+  (rectangle
+    (start 6.35 5.08)
+    (end 24.13 22.86)
+    (stroke
+      (width 0.254)
+      (type solid)
+    )
+    (fill
+      (type none)
+    )
+    (uuid "b49b929d-2647-4956-984b-da2a120232cb")
+  )
+  (rectangle
+    (start 6.35 25.4)
+    (end 24.13 43.18)
+    (stroke
+      (width 0.254)
+      (type solid)
+    )
+    (fill
+      (type none)
+    )
+    (uuid "df404b9f-3241-49a3-ba2e-2d5d673bba69")
+  )
+  (rectangle
+    (start 26.67 5.08)
+    (end 72.39 22.86)
+    (stroke
+      (width 0.254)
+      (type solid)
+    )
+    (fill
+      (type none)
+    )
+    (uuid "e18bbb4e-2ea8-46ab-8867-4c4ceca3d3ed")
+  )
+  (rectangle
+    (start 6.35 45.72)
+    (end 24.13 63.5)
+    (stroke
+      (width 0.254)
+      (type solid)
+    )
+    (fill
+      (type none)
+    )
+    (uuid "f167558a-dc43-44df-a512-41d69dbb2892")
+  )
+  (rectangle
+    (start 152.4 64.77)
+    (end 189.23 80.01)
+    (stroke
+      (width 0.254)
+      (type solid)
+    )
+    (fill
+      (type none)
+    )
+    (uuid "f4ef163e-f17c-4e1c-8a82-ae6672c87b76")
+  )
+  (text "HDMI"
+    (exclude_from_sim no)
+    (at 27.94 26.67 0)
+    (effects
+      (font
+        (size 2.3622 2.3622)
+      )
+      (justify left top)
+    )
+    (uuid "0870c5e7-6d92-486f-a6dc-adbef6769c5b")
+  )
+  (text "PowerTree"
+    (exclude_from_sim no)
+    (at 173.99 48.26 0)
+    (effects
+      (font
+        (size 2.3622 2.3622)
+      )
+      (justify left bottom)
+    )
+    (uuid "0ffc3083-1369-436a-a1ff-19620a3fa0d7")
+  )
+  (text "DP83825IRMQR\n100M ETH PHY\nRMII"
+    (exclude_from_sim no)
+    (at 48.26 46.99 0)
+    (effects
+      (font
+        (size 2.3622 2.3622)
+      )
+      (justify left top)
+    )
+    (uuid "187540a6-e6ea-4f75-abfe-eceef8a6df0b")
+  )
+  (text "MS2109\nHDMI captrue\nUSB"
+    (exclude_from_sim no)
+    (at 48.26 26.67 0)
+    (effects
+      (font
+        (size 2.3622 2.3622)
+      )
+      (justify left top)
+    )
+    (uuid "18c3ff71-2e0b-4981-af55-ab0cdcc6150d")
+  )
+  (text "RJ45"
+    (exclude_from_sim no)
+    (at 27.94 46.99 0)
+    (effects
+      (font
+        (size 2.3622 2.3622)
+      )
+      (justify left top)
+    )
+    (uuid "313eb079-6247-4250-9f89-3141e8e48281")
+  )
+  (text "2*Reserved GPIO\n1*I2C, shared with MCU and MS2109"
+    (exclude_from_sim no)
+    (at 27.94 104.14 0)
+    (effects
+      (font
+        (size 2.3622 2.3622)
+      )
+      (justify left top)
+    )
+    (uuid "4cf18bf8-074a-4b03-a88b-240cfab36653")
+  )
+  (text "CH343p_1\nexternal USB to UART\nUART1"
+    (exclude_from_sim no)
+    (at 173.99 87.63 0)
+    (effects
+      (font
+        (size 2.3622 2.3622)
+      )
+      (justify left top)
+    )
+    (uuid "692efe0c-e2bf-4536-a943-f97691879894")
+  )
+  (text "P4-core"
+    (exclude_from_sim no)
+    (at 96.52 35.56 0)
+    (effects
+      (font
+        (size 6.2992 6.2992)
+      )
+      (justify left bottom)
+    )
+    (uuid "71fa91bf-5099-4a24-87a6-8ee3cf63fd72")
+  )
+  (text "8PIN\nPower Control"
+    (exclude_from_sim no)
+    (at 213.36 30.48 0)
+    (effects
+      (font
+        (size 2.3622 2.3622)
+      )
+      (justify left top)
+    )
+    (uuid "97ee520a-f91a-416e-b844-5750aaf88424")
+  )
+  (text "OC PWRcontrol\nAQS221R2S\n4_Channel GPIO"
+    (exclude_from_sim no)
+    (at 173.99 30.48 0)
+    (effects
+      (font
+        (size 2.3622 2.3622)
+      )
+      (justify left top)
+    )
+    (uuid "99281485-0fec-4791-ab2b-85efe66eeb10")
+  )
+  (text "ESP32-P4NRW32X\n128Mbit SPI Flash"
+    (exclude_from_sim no)
+    (at 134.62 26.67 0)
+    (effects
+      (font
+        (size 2.3622 2.3622)
+      )
+      (justify left top)
+    )
+    (uuid "a3336999-3548-4e8e-95ab-82b818ffd7ab")
+  )
+  (text "9PIN USB"
+    (exclude_from_sim no)
+    (at 213.36 86.36 0)
+    (effects
+      (font
+        (size 2.3622 2.3622)
+      )
+      (justify left top)
+    )
+    (uuid "ac40a652-1bdc-4b3c-9f9a-cc1ff35bbef0")
+  )
+  (text "USB-C\n(Debug)"
+    (exclude_from_sim no)
+    (at 27.94 67.31 0)
+    (effects
+      (font
+        (size 2.3622 2.3622)
+      )
+      (justify left top)
+    )
+    (uuid "bed68096-fba0-410c-ba7a-280921c26b6c")
+  )
+  (text "TF card\nStorage\nSDIO"
+    (exclude_from_sim no)
+    (at 27.94 87.63 0)
+    (effects
+      (font
+        (size 2.3622 2.3622)
+      )
+      (justify left top)
+    )
+    (uuid "c49f757f-ff36-4ab9-9553-e65798cc7629")
+  )
+  (text "3V3\nTLV62569DBVR\n\n1V2\nTLV62569DBVR\n\nVCCHP(1V2)\nTLV62569DBVR\nUse MCU FB/EN"
+    (exclude_from_sim no)
+    (at 173.99 48.26 0)
+    (effects
+      (font
+        (size 2.3622 2.3622)
+      )
+      (justify left top)
+    )
+    (uuid "c8fb4342-6e95-4bdb-8041-7394b1ffe696")
+  )
+  (text "CH343p_0\nexternal USB to UART\nUART0, CHIP_PU, GPIO35\nDebug"
+    (exclude_from_sim no)
+    (at 48.26 67.31 0)
+    (effects
+      (font
+        (size 2.3622 2.3622)
+      )
+      (justify left top)
+    )
+    (uuid "f2ce66e1-ae0c-46f0-ac4d-e04d430e1719")
+  )
+  (text "USB_HID\nGPIO23, 22"
+    (exclude_from_sim no)
+    (at 173.99 104.14 0)
+    (effects
+      (font
+        (size 2.3622 2.3622)
+      )
+      (justify left top)
+    )
+    (uuid "f7297706-e0d6-4153-bb3f-ac52205d27b4")
+  )
+  (symbol
+    (lib_id "ExoAnchor_-easyedapro:Drawing-Symbol_A4")
+    (at 20.32 229.87 0)
+    (unit 1)
+    (body_style 0)
+    (exclude_from_sim no)
+    (in_bom no)
+    (on_board no)
+    (in_pos_files no)
+    (dnp no)
+    (uuid "aeeb83e3-d898-49ef-aa64-50e05304d5c7")
+    (property "Reference" "#VIRTUAL12"
+      (at 20.32 229.87 0)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+      )
+      (hide yes)
+    )
+    (property "Value" ""
+      (at 20.32 229.87 0)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+      )
+    )
+    (property "Footprint" ""
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+      )
+    )
+    (property "Datasheet" ""
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.27 1.27)
+        )
+      )
+    )
+    (property "Description" ""
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "@Assembly Variant" "Basic"
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "@Board Name" "cm4"
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "@Create Date" "2026-07-15"
+      (at 287.274 200.152 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 2.3622 2.3622)
+        )
+        (justify left)
+      )
+    )
+    (property "@Create Time" "07:18:48"
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "@Page Count" "7"
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "@Page Name" "P1"
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "@Page No" "7"
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "@Project Name" "远程开机卡"
+      (at 264.414 215.392 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 3.1496 3.1496)
+        )
+      )
+    )
+    (property "@Schematic Name" "Schematic3_7"
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "@Update Date" "2026-07-15"
+      (at 287.274 195.072 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 2.3622 2.3622)
+        )
+        (justify left)
+      )
+    )
+    (property "@Update Time" "07:18:48"
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "Blade Width" "10"
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "Border" "1"
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "Company" "嘉立创EDA"
+      (at 284.226 233.172 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 3.1496 3.1496)
+        )
+      )
+    )
+    (property "Height" "825"
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "Page Size" "A4"
+      (at 233.934 233.172 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 2.3622 2.3622)
+        )
+      )
+    )
+    (property "Region Start" "1"
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "Size" "A4"
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "Title Block" "0"
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "Title Block Position" "3"
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "Version" "V1.0"
+      (at 213.106 233.172 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 2.3622 2.3622)
+        )
+      )
+    )
+    (property "Width" "1170"
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "X Region Count" "6"
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (property "Y Region Count" "4"
+      (at 20.32 229.87 0)
+      (hide yes)
+      (show_name no)
+      (do_not_autoplace no)
+      (effects
+        (font
+          (size 1.2446 1.2446)
+        )
+        (justify left bottom)
+      )
+    )
+    (instances
+      (project "ExoAnchor_P4_V2.3B4"
+        (path "/b214492d-bd6c-4a09-bba6-b4fa4f4525ce/e563f003-6ddf-4980-9945-8a348e494249"
+          (reference "#VIRTUAL12")
+          (unit 1)
+        )
+      )
+    )
+  )
+)

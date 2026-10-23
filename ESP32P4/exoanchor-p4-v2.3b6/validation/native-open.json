@@ -1,0 +1,12 @@
+{
+  "application": "JLCEDA Pro 4.1.60, fully offline",
+  "source": "JLCEDA/ExoAnchor_P4_V2.3B6.epro2",
+  "import_succeeded": true,
+  "pcb_opened_and_visually_observed": true,
+  "visible_copper_layer_count": 6,
+  "folder_project_generated_by_native_application": true,
+  "profile_board_count": 1,
+  "profile_pcb_count": 1,
+  "profile_sheet_count": 8,
+  "native_erc_drc_performed": false
+}

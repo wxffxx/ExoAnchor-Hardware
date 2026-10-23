@@ -1,0 +1,4 @@
+{"type":"DOCHEAD","ticket":746440}||{"docType":"SCH","client":"6fd5527e5b4088aa","uuid":"16e5e15b4f9b57dd","updateTime":1784132202828,"version":"1784132202828","editVersion":"3.2.175","user":{"uuid":"9db7f47e80f549d298cacd490a8ab4b4","nickname":"我不是酷狗","username":"13221a","avatar":"//image.lceda.cn/avatars/2026/7/KXXyR5YsuP4QeBkBeD1YtqivesSXAS4XkKXpC16e.webp"}}|
+{"type":"META","ticket":745681,"id":"META"}||{"title":"SCH_ESP32P4_Prototype_V2.3b6_1","source":"","board":"8e5cb2ceb957c695","zIndex":null}|
+{"type":"RULE","ticket":746438,"id":"[\"RULE\",\"TRACK\",\"copperThickness1oz\"]"}||{"ruleState":"DEFAULT","ruleContext":{"unit":"mm","track":{"isOpen":true,"content":[{"layerId":1,"stroDef":0.254,"stroMax":2.54,"stroMin":0.127}]}}}|
+{"type":"RULE","ticket":746439,"id":"[\"RULE\",\"TRACK\",\"copperThickness2oz\"]"}||{"ruleState":"NORMAL","ruleContext":{"unit":"mm","track":{"isOpen":true,"content":[{"layerId":1,"stroDef":0.254,"stroMax":2.54,"stroMin":0.203}]}}}

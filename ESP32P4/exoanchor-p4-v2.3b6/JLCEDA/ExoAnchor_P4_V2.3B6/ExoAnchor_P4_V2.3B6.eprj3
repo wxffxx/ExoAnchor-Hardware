@@ -1,0 +1,151 @@
+{
+  "name": "ExoAnchor_P4_V2.3B6",
+  "owner_uuid": "21343acd9a634524bd602243f42ac87c",
+  "creator_uuid": "21343acd9a634524bd602243f42ac87c",
+  "created_at": "2026-10-22 21:18:34",
+  "updated_at": "2026-10-22 21:18:34",
+  "modifier_uuid": "21343acd9a634524bd602243f42ac87c",
+  "content": "",
+  "archive": false,
+  "cbb_project": 0,
+  "thumb": "",
+  "ticket": 1,
+  "g_ticket": 1,
+  "boards": [],
+  "block_symbol_attrs_groups": {},
+  "default_sheet": "5b3fa5f4101fd646",
+  "branch_uuid": "",
+  "pcb_count": 0,
+  "format": "folder",
+  "config": {
+    "defaultSheet": "5b3fa5f4101fd646",
+    "settings": {
+      "UNIVERSAL": {
+        "dataType": "UNIVERSAL",
+        "data": {
+          "allowLibRename": true,
+          "defaultNetName": true,
+          "wireMultipleNet": true,
+          "netFlagCrossLayerConnection": true,
+          "netLabelCrossPageConnection": true,
+          "busGenerateNetClass": true,
+          "relevanceDisplayRow": "SINGLE",
+          "relevanceBelongSchPage": "NAME",
+          "relevanceLocation": "ZONE"
+        }
+      }
+    }
+  },
+  "profile": {
+    "boards": {
+      "c4f64d55edbdec2f": {
+        "uuid": "c4f64d55edbdec2f",
+        "title": "ESP32P4_Prototype_V2.3b6layers_260724封存",
+        "zIndex": 10
+      }
+    },
+    "schematics": {
+      "886a5bd229c57a79": {
+        "uuid": "886a5bd229c57a79",
+        "name": "SCH_ESP32P4_Prototype_V2.3b6",
+        "board": "c4f64d55edbdec2f",
+        "source": "",
+        "version": "1783986708112",
+        "updateTime": 1783986708112
+      }
+    },
+    "sheets": {
+      "d12079e3a9aaa3a8": {
+        "uuid": "d12079e3a9aaa3a8",
+        "title": "Power",
+        "schematic_uuid": "886a5bd229c57a79",
+        "zIndex": 5,
+        "source": "",
+        "version": "1784475616024",
+        "updateTime": 1784475616024
+      },
+      "b97aad541aec88af": {
+        "uuid": "b97aad541aec88af",
+        "title": "HDMI_Captrue_MS2109",
+        "schematic_uuid": "886a5bd229c57a79",
+        "zIndex": 4.25,
+        "source": "",
+        "version": "1784131418989",
+        "updateTime": 1784131418989
+      },
+      "920e34624875d7f7": {
+        "uuid": "920e34624875d7f7",
+        "title": "P4",
+        "schematic_uuid": "886a5bd229c57a79",
+        "zIndex": 3.5,
+        "source": "",
+        "version": "1784130830824",
+        "updateTime": 1784130830824
+      },
+      "b5489f55674f6cbc": {
+        "uuid": "b5489f55674f6cbc",
+        "title": "USB_UART/Other IO",
+        "schematic_uuid": "886a5bd229c57a79",
+        "zIndex": 1,
+        "source": "",
+        "version": "1784011794889",
+        "updateTime": 1784011794889
+      },
+      "2bb9562d3d28b8c4": {
+        "uuid": "2bb9562d3d28b8c4",
+        "title": "ETH",
+        "schematic_uuid": "886a5bd229c57a79",
+        "zIndex": 3,
+        "source": "",
+        "version": "1783934131023",
+        "updateTime": 1783934131023
+      },
+      "95acb27c3054bd86": {
+        "uuid": "95acb27c3054bd86",
+        "title": "TF",
+        "schematic_uuid": "886a5bd229c57a79",
+        "zIndex": 6.875,
+        "source": "",
+        "version": "1783876000875",
+        "updateTime": 1783876000875
+      },
+      "7efa08cea91d52ea": {
+        "uuid": "7efa08cea91d52ea",
+        "title": "P1",
+        "schematic_uuid": "886a5bd229c57a79",
+        "zIndex": 0.5,
+        "source": "",
+        "version": "1783782585119",
+        "updateTime": 1783782585119
+      },
+      "e33de317d912b8dc": {
+        "uuid": "e33de317d912b8dc",
+        "title": "PCIe",
+        "schematic_uuid": "886a5bd229c57a79",
+        "zIndex": 6.75,
+        "source": "",
+        "version": "1783529600219",
+        "updateTime": 1783776932144
+      }
+    },
+    "pcbs": {
+      "5b3fa5f4101fd646": {
+        "uuid": "5b3fa5f4101fd646",
+        "title": "ESP32P4_Prototype_V2.3b6",
+        "board": "c4f64d55edbdec2f",
+        "zIndex": null,
+        "parent_uuid": "",
+        "source": "",
+        "version": "1784475619574",
+        "updateTime": 1784475619574
+      }
+    },
+    "panels": {},
+    "blockSymbols": {},
+    "owner": {
+      "uuid": "/Users/wxffxx/Documents/LCEDA-Pro/projects",
+      "username": "",
+      "nickname": ""
+    }
+  }
+}

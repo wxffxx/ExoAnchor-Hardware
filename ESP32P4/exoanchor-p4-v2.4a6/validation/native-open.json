@@ -1,0 +1,74 @@
+{
+  "application": "嘉立创EDA(专业版) V4.1.60 全离线",
+  "import": "success",
+  "observed_project": "ExoAnchor_P4_V2.4A6",
+  "observed_board": "ESP32P4_Prototype_V2.4a6",
+  "pcb_visually_opened": true,
+  "project_boards": 1,
+  "project_sheets": 8,
+  "embedded_document_counts": {
+    "sch/SCH_ESP32P4_Prototype_V2.4a6/TF.esch2": {
+      "SYMBOL": 9,
+      "FOOTPRINT": 6,
+      "DEVICE": 7,
+      "BLOB": 1,
+      "SCH_PAGE": 1
+    },
+    "sch/SCH_ESP32P4_Prototype_V2.4a6/PCIe.esch2": {
+      "SYMBOL": 4,
+      "FOOTPRINT": 1,
+      "DEVICE": 4,
+      "BLOB": 1,
+      "SCH_PAGE": 1
+    },
+    "sch/SCH_ESP32P4_Prototype_V2.4a6/HDMI_Captrue_MS2109.esch2": {
+      "SYMBOL": 34,
+      "FOOTPRINT": 20,
+      "DEVICE": 29,
+      "BLOB": 1,
+      "SCH_PAGE": 1
+    },
+    "sch/SCH_ESP32P4_Prototype_V2.4a6/USB_UARTOther IO.esch2": {
+      "SYMBOL": 25,
+      "FOOTPRINT": 15,
+      "DEVICE": 22,
+      "BLOB": 1,
+      "SCH_PAGE": 1
+    },
+    "sch/SCH_ESP32P4_Prototype_V2.4a6/P1.esch2": {
+      "SYMBOL": 1,
+      "DEVICE": 1,
+      "BLOB": 1,
+      "SCH_PAGE": 1
+    },
+    "sch/SCH_ESP32P4_Prototype_V2.4a6/P4.esch2": {
+      "SYMBOL": 20,
+      "FOOTPRINT": 10,
+      "DEVICE": 18,
+      "BLOB": 1,
+      "SCH_PAGE": 1
+    },
+    "sch/SCH_ESP32P4_Prototype_V2.4a6/ETH.esch2": {
+      "SYMBOL": 16,
+      "FOOTPRINT": 9,
+      "DEVICE": 15,
+      "BLOB": 1,
+      "SCH_PAGE": 1
+    },
+    "sch/SCH_ESP32P4_Prototype_V2.4a6/Power.esch2": {
+      "SYMBOL": 16,
+      "FOOTPRINT": 10,
+      "DEVICE": 13,
+      "BLOB": 1,
+      "SCH_PAGE": 1
+    },
+    "pcb/ESP32P4_Prototype_V2.4a6.epcb2": {
+      "SYMBOL": 52,
+      "FOOTPRINT": 38,
+      "DEVICE": 52,
+      "FONT": 1,
+      "PCB": 1
+    }
+  },
+  "native_drc_executed": false
+}

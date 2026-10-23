@@ -1,0 +1,871 @@
+(footprint "PCIe_1 key__ebaa1119"
+  (version 20260512)
+  (generator "pcbnew")
+  (layer "F.Cu")
+  (property "Reference" "REF**"
+    (at 0 0 0)
+    (layer "F.SilkS")
+    (hide yes)
+    (uuid "ce7917cd-9d31-40d2-8edf-48d78e1f67b9")
+    (effects
+      (font
+        (size 0.686 0.6285)
+        (thickness 0.1525)
+      )
+      (justify left bottom)
+    )
+  )
+  (property "Value" ""
+    (at 0 0 0)
+    (layer "F.Fab")
+    (uuid "ebacbbdf-c17e-481c-8790-f37ed258c1fe")
+    (effects
+      (font
+        (size 1 1)
+        (thickness 0.15)
+      )
+    )
+  )
+  (property "Datasheet" ""
+    (at 0 0 0)
+    (layer "F.Fab")
+    (hide yes)
+    (uuid "8c8a1646-56a2-4ed4-a1ef-26035e278301")
+    (effects
+      (font
+        (size 1 1)
+        (thickness 0.15)
+      )
+    )
+  )
+  (property "Description" ""
+    (at 0 0 0)
+    (layer "F.Fab")
+    (hide yes)
+    (uuid "9a8e9915-416f-4444-a9e1-a647a0c5f2da")
+    (effects
+      (font
+        (size 1 1)
+        (thickness 0.15)
+      )
+    )
+  )
+  (duplicate_pad_numbers_are_jumpers no)
+  (fp_rect
+    (start -0.6055 -2.3455)
+    (end 19.63 2.3455)
+    (stroke
+      (width 0.05)
+      (type default)
+    )
+    (fill no)
+    (layer "F.CrtYd")
+    (uuid "cf4db415-f336-489f-9fd1-922d4f52cc8a")
+  )
+  (fp_text user "${REFERENCE}"
+    (at 0 0 0)
+    (layer "F.Fab")
+    (uuid "63be9f1a-0b69-4ee9-924e-637b0c565b66")
+    (effects
+      (font
+        (size 0.5 0.5)
+        (thickness 0.1)
+      )
+    )
+  )
+  (pad "A1" smd custom
+    (at 0 0)
+    (size 0.000001 0.000001)
+    (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "af055e8c-3584-47e9-88cc-1c8e8d00f8c8")
+  )
+  (pad "A2" smd custom
+    (at 0.9905 0)
+    (size 0.000001 0.000001)
+    (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "051b3a5b-20cc-4be5-8651-82d84316db0c")
+  )
+  (pad "A3" smd custom
+    (at 1.981 0)
+    (size 0.000001 0.000001)
+    (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy 0.356 -2.0955)
+          (xy 0.356 2.0955)
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "20c8d6b7-2675-45ee-b046-66a8f2513196")
+  )
+  (pad "A4" smd custom
+    (at 2.972 0)
+    (size 0.000001 0.000001)
+    (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+          (xy -0.356 2.0955)
+          (xy -0.356 -2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "bb5078f0-63ae-47bb-8830-6f2542e210dc")
+  )
+  (pad "A5" smd custom
+    (at 3.9625 0)
+    (size 0.000001 0.000001)
+    (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "bca38177-94f8-4430-8149-b147ade17357")
+  )
+  (pad "A6" smd custom
+    (at 4.953 0)
+    (size 0.000001 0.000001)
+    (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "05f54ef4-2f4f-4485-b3ed-cb8184b25641")
+  )
+  (pad "A7" smd custom
+    (at 5.9435 0)
+    (size 0.000001 0.000001)
+    (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "7c5078c6-98e9-4b4b-8011-1ade3c23a47e")
+  )
+  (pad "A8" smd custom
+    (at 6.934 0)
+    (size 0.000001 0.000001)
+    (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.356 -2.0955)
+          (xy 0.356 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "7e4dd93c-eb93-46f8-baee-49051d3537ac")
+  )
+  (pad "A9" smd custom
+    (at 7.925 0)
+    (size 0.000001 0.000001)
+    (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.356 2.0955)
+          (xy -0.356 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "257249fa-a2b0-418e-b598-f33df4585678")
+  )
+  (pad "A10" smd custom
+    (at 8.9155 0)
+    (size 0.000001 0.000001)
+    (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "b73d5c92-9053-49db-b275-12065c501be1")
+  )
+  (pad "A11" smd rect
+    (at 9.906 0)
+    (size 0.711 4.191)
+    (layers "B.Cu" "B.Paste" "B.Mask")
+    (uuid "e257c913-7bfd-4d91-99ad-5e74113d0124")
+  )
+  (pad "A12" smd custom
+    (at 13.081 0)
+    (size 0.000001 0.000001)
+    (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "0a0e0524-b446-4867-be5e-ea1a79f3795d")
+  )
+  (pad "A13" smd custom
+    (at 14.0715 0)
+    (size 0.000001 0.000001)
+    (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "80d07bdd-931e-406b-b10c-e16221ea3aee")
+  )
+  (pad "A14" smd custom
+    (at 15.062 0)
+    (size 0.000001 0.000001)
+    (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.356 -2.0955)
+          (xy 0.356 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "6f30fa1e-b319-47c5-8f50-b46036ae6d9a")
+  )
+  (pad "A15" smd custom
+    (at 16.053 0)
+    (size 0.000001 0.000001)
+    (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.356 2.0955)
+          (xy -0.356 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "b87c144f-d9ae-4917-bc47-13e68af50565")
+  )
+  (pad "A16" smd custom
+    (at 17.0435 0)
+    (size 0.000001 0.000001)
+    (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "3642354d-6754-454f-bda0-83393b8fe672")
+  )
+  (pad "A17" smd custom
+    (at 18.034 0)
+    (size 0.000001 0.000001)
+    (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "feed00fd-4a8e-477b-858e-2222746e2fac")
+  )
+  (pad "A18" smd custom
+    (at 19.0245 0)
+    (size 0.000001 0.000001)
+    (layers "B.Cu" "B.Paste" "B.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "3b1fab9d-12b1-4bc5-a82d-597561bedc68")
+  )
+  (pad "B1" smd custom
+    (at 0 0)
+    (size 0.000001 0.000001)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "e6fba90d-a3bf-4639-af0d-2ca1272e25d2")
+  )
+  (pad "B2" smd custom
+    (at 0.9905 0)
+    (size 0.000001 0.000001)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "279e439c-a042-4349-a109-8f69fd1e47a7")
+  )
+  (pad "B3" smd custom
+    (at 1.981 0)
+    (size 0.000001 0.000001)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy 0.356 -2.0955)
+          (xy 0.356 2.0955)
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "581325b9-1279-40ba-a5f4-afa84d1d49b9")
+  )
+  (pad "B4" smd custom
+    (at 2.972 0)
+    (size 0.000001 0.000001)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+          (xy -0.356 2.0955)
+          (xy -0.356 -2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "f5a835b3-a8fa-4914-96a3-3740d0bbfd88")
+  )
+  (pad "B5" smd custom
+    (at 3.9625 0)
+    (size 0.000001 0.000001)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "2f48c173-b0ab-4190-85b9-a202743a117c")
+  )
+  (pad "B6" smd custom
+    (at 4.953 0)
+    (size 0.000001 0.000001)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "6e59e457-c5ba-4dee-aca6-77d67039568b")
+  )
+  (pad "B7" smd custom
+    (at 5.9435 0)
+    (size 0.000001 0.000001)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "b5dc8544-498e-4368-b95c-d360a94ea7d7")
+  )
+  (pad "B8" smd custom
+    (at 6.934 0)
+    (size 0.000001 0.000001)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.356 -2.0955)
+          (xy 0.356 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "ac4a7ab5-4321-439c-a151-8e33d27c793f")
+  )
+  (pad "B9" smd custom
+    (at 7.925 0)
+    (size 0.000001 0.000001)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.356 2.0955)
+          (xy -0.356 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "6e3ef84d-14f5-4d93-a701-64fe920a08ec")
+  )
+  (pad "B10" smd custom
+    (at 8.9155 0)
+    (size 0.000001 0.000001)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "af5f7707-7cf2-43ad-b6f7-688d57d775fb")
+  )
+  (pad "B11" smd rect
+    (at 9.906 0)
+    (size 0.711 4.191)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (uuid "ca770ee7-9250-48ee-980b-748307d6f63d")
+  )
+  (pad "B12" smd custom
+    (at 13.081 0)
+    (size 0.000001 0.000001)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "f4244713-521d-4675-8fa5-7a12d4d5ea95")
+  )
+  (pad "B13" smd custom
+    (at 14.0715 0)
+    (size 0.000001 0.000001)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "785ed3bc-52ad-487e-b331-10ff337af923")
+  )
+  (pad "B14" smd custom
+    (at 15.062 0)
+    (size 0.000001 0.000001)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.356 -2.0955)
+          (xy 0.356 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "4e3f650c-658b-4566-8c52-530170b6b070")
+  )
+  (pad "B15" smd custom
+    (at 16.053 0)
+    (size 0.000001 0.000001)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.356 2.0955)
+          (xy -0.356 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "c7e71c0e-a72c-46bb-834e-dfcc03820750")
+  )
+  (pad "B16" smd custom
+    (at 17.0435 0)
+    (size 0.000001 0.000001)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "207f7da4-498c-4266-aed1-40187d1c811a")
+  )
+  (pad "B17" smd custom
+    (at 18.034 0)
+    (size 0.000001 0.000001)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "14aaf49b-48e0-4a30-90c8-43b3315ffbcf")
+  )
+  (pad "B18" smd custom
+    (at 19.0245 0)
+    (size 0.000001 0.000001)
+    (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 90)
+    (options
+      (clearance outline)
+      (anchor circle)
+    )
+    (primitives
+      (gr_poly
+        (pts
+          (xy -0.3555 2.0955)
+          (xy -0.3555 -2.0955)
+          (xy 0.3555 -2.0955)
+          (xy 0.3555 2.0955)
+        )
+        (width 0)
+        (fill yes)
+      )
+    )
+    (uuid "f1816add-efe6-4b99-9614-4c3038e85e29")
+  )
+  (embedded_fonts no)
+)
